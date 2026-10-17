@@ -144,7 +144,7 @@ or `/restore` keeps the original deadline.
 
 After the trial ends, browsing and playback require a **one-time Telegram
 Stars purchase**. There is no subscription or continuing free mode. The bot
-shows your regional price, **250 or 500 Stars**, before you confirm checkout.
+shows the standard price, **500 Stars worldwide**, before you confirm checkout.
 You can buy before starting a trial. A purchase belongs to your Telegram
 account and unlocks the app until a signed revocation, such as after a refund.
 Read `/terms` in the Pro bot before buying; use `/paysupport` there for payment help.

@@ -82,7 +82,7 @@ uma reinstalação ou `/restore` mantém a data de término original.
 
 Após o teste, navegar e reproduzir vídeos exige **uma compra única com
 Estrelas do Telegram**. Não há assinatura nem modo gratuito permanente.
-O bot mostra o preço regional, 250 ou 500 Estrelas, antes da confirmação.
+O bot mostra o preço padrão, **500 Estrelas em todos os países**, antes da confirmação.
 Você pode comprar antes do teste. A compra pertence à sua conta do Telegram
 e vale até uma revogação assinada, como após um reembolso. Leia `/terms`
 no bot Pro antes de comprar; dúvidas de pagamento: `/paysupport` no mesmo bot.
