@@ -7,7 +7,12 @@ prateleiras, retomada da reprodução, histórico e lista para assistir mais
 tarde. Tudo pelo controle remoto. O TeleShelf usa a API do Telegram e é um
 aplicativo independente e não oficial, sem vínculo ou endosso do Telegram.
 
-**O primeiro APK público está sendo preparado. Ainda não há download.**
+**[Baixar TeleShelf Pro 0.52.0 · compilação 72](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Código do Downloader: 6320340**
+
+SHA-256 do APK:
+```text
+2f91baa1d82c90636b4041fd9df4b02b3540ef8d8ce30b45ce99ad6d8c9bf4a3
+```
 [Disponibilidade das versões](https://github.com/nimec77/teleshelf-pro/releases) ·
 [Teste, compra ou restauração](https://t.me/TeleShelfProBot?start=trial)
 
@@ -21,36 +26,40 @@ Vega OS, Apple TV ou x86.
 
 ### Baixar diretamente na TV
 
-O APK público ainda não foi lançado. Use estes passos quando o arquivo aparecer
-no [GitHub Releases](https://github.com/nimec77/teleshelf-pro/releases).
-Se **Assets** não mostrar um arquivo `.apk`, ainda não há instalador.
+Baixe o APK oficial pelo link acima ou use o Downloader na TV.
 Instale o aplicativo antes de iniciar o teste.
 
 1. Instale **Downloader by AFTVnews** pela loja compatível com sua TV.
    Veja a [página oficial do Downloader](https://www.aftvnews.com/downloader/).
-2. Abra o Downloader e digite no navegador:
-   `https://github.com/nimec77/teleshelf-pro/releases`.
-3. Abra a versão oficial mais recente → **Assets** → arquivo **`.apk`**
-   (`teleshelf-pro.apk`). **Source code (zip/tar.gz)** não é um instalador Android.
+2. Abra o Downloader, digite **6320340** e carregue o endereço.
+3. O arquivo **teleshelf-pro.apk** será baixado. Como alternativa, abra
+   [Releases](https://github.com/nimec77/teleshelf-pro/releases) → **Assets** →
+   **teleshelf-pro.apk**. ZIP/tar.gz de código-fonte não é um instalador.
 4. Se solicitado, permita que o Downloader instale aplicativos. A opção pode
    se chamar **Instalar apps desconhecidos** ou **Fontes desconhecidas**;
    o nome e o local variam conforme a TV. Volte ao APK baixado.
 5. Selecione **Instalar** e **Abrir**. Para atualizar, instale por cima do
    TeleShelf existente e mantenha os dados para preservar sessão e histórico.
 
-Um código numérico verificado do Downloader aparecerá aqui e em @teleshelf_pro
-quando estiver disponível. Até lá, use o endereço completo de Releases.
-São passos gerais para APKs; ainda não publicamos uma lista de TVs verificadas.
+O código **6320340** aponta para o endereço estável do APK no GitHub. Se o
+encurtador estiver indisponível, digite o endereço completo no Downloader:
+
+```text
+https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk
+```
+
+O código e o download foram verificados no emulador de Android TV. A compatibilidade
+com modelos específicos de TVs físicas ainda não foi confirmada.
 
 ### Transferir de um celular Android
 
 Se [LocalSend](https://localsend.org/download) estiver disponível na TV e
-funcionar com o controle remoto, instale-o no celular e na TV. Conecte ambos
+for utilizável (talvez com um mouse), instale-o no celular e na TV. Conecte ambos
 à mesma rede local. No celular, baixe o APK em **Releases → Assets**, envie
 o arquivo pelo LocalSend e aceite na TV. Abra o APK no LocalSend ou no gerenciador
 de arquivos da TV, permita a instalação por esse app e selecione **Instalar**.
-Quando o espelho for publicado, também será possível salvar o documento APK
-de @teleshelf_pro. Essa alternativa ainda não foi verificada em uma TV física;
+Também é possível salvar o [documento APK oficial no Telegram](https://t.me/teleshelf_pro/7). No emulador, foi necessário um ponteiro para aceitar a transferência.
+O envio do celular à TV usando apenas o controle não foi verificado; pode exigir um mouse.
 usuários de iPhone devem baixar diretamente pelo Downloader na TV.
 
 ### Entrar e verificar o acesso
@@ -94,7 +103,7 @@ conteúdo bloqueado. A TV não envia mensagens ao bot nem gasta Estrelas.
 
 ## Arquivos oficiais e ajuda
 
-As versões serão publicadas no [GitHub Releases](https://github.com/nimec77/teleshelf-pro/releases)
+As versões estão disponíveis no [GitHub Releases](https://github.com/nimec77/teleshelf-pro/releases)
 e como documentos APK em [@teleshelf_pro](https://t.me/teleshelf_pro).
 Compare o SHA-256 do arquivo com o anúncio da versão. A identificação do
 certificado e os comandos estão no [guia principal](../README.md#updates-and-authenticity).

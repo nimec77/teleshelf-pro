@@ -9,7 +9,12 @@ save something for later, and control everything with your TV remote.
 
 [English](README.md) · [Русский](guides/ru.md) · [Português (Brasil)](guides/pt-BR.md) · [Español (Latinoamérica)](guides/es-419.md)
 
-**The first public APK is being prepared. There is nothing to download yet.**
+**[Download TeleShelf Pro 0.52.0 · build 72](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Downloader code: 6320340**
+
+APK SHA-256:
+```text
+2f91baa1d82c90636b4041fd9df4b02b3540ef8d8ce30b45ce99ad6d8c9bf4a3
+```
 
 **[How to install on your TV](#install-and-sign-in)** · [Check APK availability](https://github.com/nimec77/teleshelf-pro/releases)
 
@@ -58,9 +63,7 @@ account; it does not supply subscriptions or a content catalog.
 
 ## Install and sign in
 
-The first public APK has not been released. The steps below explain how to
-install the official file once it appears in [GitHub Releases](https://github.com/nimec77/teleshelf-pro/releases).
-If a release has no `.apk` under **Assets**, there is no installable file yet.
+Download the official APK above or use Downloader on the TV.
 Install the app before starting the trial.
 
 ### Download directly on the TV
@@ -68,34 +71,33 @@ Install the app before starting the trial.
 1. Install **Downloader by AFTVnews** from your TV's supported app store.
    See the [official Downloader page](https://www.aftvnews.com/downloader/) to
    identify the app. Open Downloader on the TV.
-2. Enter this address in Downloader's browser:
-
-   ```text
-   https://github.com/nimec77/teleshelf-pro/releases
-   ```
-
-3. Open the newest official release, expand **Assets** and select the file
-   ending in **`.apk`** (`teleshelf-pro.apk`). **Source code (zip)** and
-   **Source code (tar.gz)** are not Android installers.
+2. Enter **6320340** in Downloader and load it.
+3. Downloader downloads **teleshelf-pro.apk**. Alternatively, open the
+   [Releases page](https://github.com/nimec77/teleshelf-pro/releases) and choose
+   that file under **Assets**. Source-code ZIP/tar.gz files are not installers.
 4. When Android asks, allow **Downloader** to install apps. The setting may be
    called **Install unknown apps** or **Unknown sources**; names and locations
    vary by TV. Return to Downloader and open the downloaded APK again if needed.
 5. Choose **Install**, then **Open**. For an update, install over the existing
    TeleShelf app to keep your Telegram login, history and settings. Keep its data.
 
-If a verified numeric Downloader code becomes available, it will be shown
-here and in [@teleshelf_pro](https://t.me/teleshelf_pro). Use the full Releases
-address above until then. These are general APK-installation steps; a
-device-by-device TeleShelf compatibility list has not been published.
+Code **6320340** targets the stable GitHub APK URL. If the shortener is unavailable,
+enter the full address in Downloader:
+
+```text
+https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk
+```
+
+The code/download was checked on the Android TV emulator. Compatibility with
+individual physical TV models has not been established.
 
 ### Transfer from an Android phone
 
 Use this alternative only if [LocalSend](https://localsend.org/download) is
-available and usable with the remote on your TV:
+available and usable on your TV (a mouse may be needed):
 
 1. On the phone, open the official Releases page and download the `.apk`
-   from **Assets**. After a Telegram mirror is published, you can also save
-   the APK document from [@teleshelf_pro](https://t.me/teleshelf_pro).
+   from **Assets**, or save the [official Telegram APK document](https://t.me/teleshelf_pro/7).
 2. Open LocalSend on the Android phone and TV, connected to the same local
    Wi-Fi/network. On the phone, select the APK and send it to the TV; accept
    the transfer on the TV.
@@ -103,7 +105,8 @@ available and usable with the remote on your TV:
    allow that app to install APKs, then choose **Install** and **Open**.
 
 LocalSend availability, remote control and opening APKs depend on the TV;
-this alternative has not yet been verified on physical TeleShelf hardware.
+pointer approval was needed in the emulator check. Phone-to-TV transfer using
+only the remote remains unverified; LocalSend may need a mouse.
 iPhone users should use the direct TV method above.
 
 ### Sign in, then start the trial
@@ -156,10 +159,10 @@ while content access is locked. The TV never sends bot messages or spends Stars.
 
 ## Updates and authenticity
 
-Official release files will appear in
+Official release files are available in
 [GitHub Releases](https://github.com/nimec77/teleshelf-pro/releases) and as APK
 documents in [@teleshelf_pro](https://t.me/teleshelf_pro). News is in
-[@teleshelf_tv](https://t.me/teleshelf_tv). Each release will identify its
+[@teleshelf_tv](https://t.me/teleshelf_tv). Each release identifies its
 version and the APK's SHA-256. Both mirrors must contain identical bytes.
 
 Compare the downloaded file's SHA-256 with that release's published hash.
