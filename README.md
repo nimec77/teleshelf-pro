@@ -184,8 +184,9 @@ Videos are fetched directly by your own Telegram session. TeleShelf operates
 no server-side media cache or content catalog. The Pro bot retains your
 Telegram account id, the original trial dates and purchase records for access
 and restore. Optional crash and usage reports are off until you consent.
-The public privacy policy is being finalized before launch; the in-app user
-agreement is available from Support and About.
+[Privacy policy](https://github.com/nimec77/teleshelf-pro/blob/main/PRIVACY.md)
+(version 1, effective October 18, 2026; English). The in-app user agreement is
+available from Support and About.
 
 - App problems and feedback: [@TeleShelfSupportBot](https://t.me/TeleShelfSupportBot).
 - Trial, purchase, restore and `/paysupport`: [@TeleShelfProBot](https://t.me/TeleShelfProBot).

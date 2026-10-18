@@ -102,8 +102,9 @@ certificado e os comandos estão no [guia principal](../README.md#updates-and-au
 Os vídeos vêm diretamente da sua sessão do Telegram. O bot Pro mantém o id
 da conta, as datas originais do teste e registros de compra para acesso e
 restauração. Relatórios opcionais ficam desativados até seu consentimento.
-A política pública de privacidade está sendo finalizada para o lançamento;
-o contrato de uso está disponível no aplicativo, em Suporte e Sobre.
+[Política de privacidade](https://github.com/nimec77/teleshelf-pro/blob/main/PRIVACY.md)
+(versão 1, em vigor desde 18 de outubro de 2026; em inglês). O contrato de uso
+está disponível no aplicativo, em Suporte e Sobre.
 
 Suporte do aplicativo: [@TeleShelfSupportBot](https://t.me/TeleShelfSupportBot).
 Notícias: [@teleshelf_tv](https://t.me/teleshelf_tv); use o botão Discussion
