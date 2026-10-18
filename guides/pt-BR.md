@@ -7,11 +7,11 @@ prateleiras, retomada da reprodução, histórico e lista para assistir mais
 tarde. Tudo pelo controle remoto. O TeleShelf usa a API do Telegram e é um
 aplicativo independente e não oficial, sem vínculo ou endosso do Telegram.
 
-**[Baixar TeleShelf Pro 0.52.0 · compilação 72](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Código do Downloader: 6320340**
+**[Baixar TeleShelf Pro 0.53.0 · compilação 73](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Código do Downloader: 6320340**
 
 SHA-256 do APK:
 ```text
-2f91baa1d82c90636b4041fd9df4b02b3540ef8d8ce30b45ce99ad6d8c9bf4a3
+1e9827aad90b6bbe0f67e9831578aa301ba426131ef0784384c94eca38c1a998
 ```
 [Disponibilidade das versões](https://github.com/nimec77/teleshelf-pro/releases) ·
 [Teste, compra ou restauração](https://t.me/TeleShelfProBot?start=trial)
@@ -58,7 +58,7 @@ for utilizável (talvez com um mouse), instale-o no celular e na TV. Conecte amb
 à mesma rede local. No celular, baixe o APK em **Releases → Assets**, envie
 o arquivo pelo LocalSend e aceite na TV. Abra o APK no LocalSend ou no gerenciador
 de arquivos da TV, permita a instalação por esse app e selecione **Instalar**.
-Também é possível salvar o [documento APK oficial no Telegram](https://t.me/teleshelf_pro/7). No emulador, foi necessário um ponteiro para aceitar a transferência.
+Também é possível salvar o [documento APK oficial no Telegram](https://t.me/teleshelf_pro/10). No emulador, foi necessário um ponteiro para aceitar a transferência.
 O envio do celular à TV usando apenas o controle não foi verificado; pode exigir um mouse.
 usuários de iPhone devem baixar diretamente pelo Downloader na TV.
 

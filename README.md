@@ -9,11 +9,11 @@ save something for later, and control everything with your TV remote.
 
 [English](README.md) · [Русский](guides/ru.md) · [Português (Brasil)](guides/pt-BR.md) · [Español (Latinoamérica)](guides/es-419.md)
 
-**[Download TeleShelf Pro 0.52.0 · build 72](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Downloader code: 6320340**
+**[Download TeleShelf Pro 0.53.0 · build 73](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Downloader code: 6320340**
 
 APK SHA-256:
 ```text
-2f91baa1d82c90636b4041fd9df4b02b3540ef8d8ce30b45ce99ad6d8c9bf4a3
+1e9827aad90b6bbe0f67e9831578aa301ba426131ef0784384c94eca38c1a998
 ```
 
 **[How to install on your TV](#install-and-sign-in)** · [Check APK availability](https://github.com/nimec77/teleshelf-pro/releases)
@@ -97,7 +97,7 @@ Use this alternative only if [LocalSend](https://localsend.org/download) is
 available and usable on your TV (a mouse may be needed):
 
 1. On the phone, open the official Releases page and download the `.apk`
-   from **Assets**, or save the [official Telegram APK document](https://t.me/teleshelf_pro/7).
+   from **Assets**, or save the [official Telegram APK document](https://t.me/teleshelf_pro/10).
 2. Open LocalSend on the Android phone and TV, connected to the same local
    Wi-Fi/network. On the phone, select the APK and send it to the TV; accept
    the transfer on the TV.
