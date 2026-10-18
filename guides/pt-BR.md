@@ -48,8 +48,8 @@ encurtador estiver indisponível, digite o endereço completo no Downloader:
 https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk
 ```
 
-O código e o download foram verificados no emulador de Android TV. A compatibilidade
-com modelos específicos de TVs físicas ainda não foi confirmada.
+O aplicativo e o processo de instalação foram testados com sucesso em uma TV
+física com Android TV.
 
 ### Transferir de um celular Android
 
@@ -58,9 +58,9 @@ for utilizável (talvez com um mouse), instale-o no celular e na TV. Conecte amb
 à mesma rede local. No celular, baixe o APK em **Releases → Assets**, envie
 o arquivo pelo LocalSend e aceite na TV. Abra o APK no LocalSend ou no gerenciador
 de arquivos da TV, permita a instalação por esse app e selecione **Instalar**.
-Também é possível salvar o [documento APK oficial no Telegram](https://t.me/teleshelf_pro/10). No emulador, foi necessário um ponteiro para aceitar a transferência.
+Também é possível salvar o [documento APK oficial no Telegram](https://t.me/teleshelf_pro/10).
 O envio do celular à TV usando apenas o controle não foi verificado; pode exigir um mouse.
-usuários de iPhone devem baixar diretamente pelo Downloader na TV.
+Usuários de iPhone devem baixar diretamente pelo Downloader na TV.
 
 ### Entrar e verificar o acesso
 

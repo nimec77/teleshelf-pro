@@ -88,8 +88,8 @@ enter the full address in Downloader:
 https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk
 ```
 
-The code/download was checked on the Android TV emulator. Compatibility with
-individual physical TV models has not been established.
+The app and installation process have been successfully tested on a physical
+Android TV.
 
 ### Transfer from an Android phone
 
@@ -104,9 +104,9 @@ available and usable on your TV (a mouse may be needed):
 3. Open the received APK using LocalSend or the TV's file manager. If prompted,
    allow that app to install APKs, then choose **Install** and **Open**.
 
-LocalSend availability, remote control and opening APKs depend on the TV;
-pointer approval was needed in the emulator check. Phone-to-TV transfer using
-only the remote remains unverified; LocalSend may need a mouse.
+LocalSend availability, remote control and opening APKs depend on the TV.
+Phone-to-TV transfer using only the remote remains unverified; LocalSend may
+need a mouse.
 iPhone users should use the direct TV method above.
 
 ### Sign in, then start the trial
