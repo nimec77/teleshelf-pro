@@ -7,11 +7,11 @@
 TeleShelf использует API Telegram. Это независимое неофициальное приложение,
 не созданное и не одобренное Telegram.
 
-**[Скачать TeleShelf Pro 0.53.0 · сборка 73](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Код Downloader: 6320340**
+**[Скачать TeleShelf Pro 0.54.0 · сборка 74](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Код Downloader: 6320340**
 
 SHA-256 APK:
 ```text
-1e9827aad90b6bbe0f67e9831578aa301ba426131ef0784384c94eca38c1a998
+3e0d000059db0195f8bc50c876833ab5f3661feb1ad6791509451f51a1dec291
 ```
 [Доступность сборок](https://github.com/nimec77/teleshelf-pro/releases) ·
 [Пробный период, покупка и восстановление](https://t.me/TeleShelfProBot?start=trial)
@@ -56,7 +56,7 @@ https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.
 к одной локальной сети. На телефоне скачайте APK из **Releases → Assets**,
 отправьте файл на ТВ через LocalSend и примите передачу. Откройте APK через
 LocalSend или файловый менеджер ТВ, разрешите этому приложению установку
-и нажмите **Установить**. APK также доступен [документом в Telegram](https://t.me/teleshelf_pro/10).
+и нажмите **Установить**. APK также доступен [документом в Telegram](https://t.me/teleshelf_pro/11).
 Передача с телефона с управлением только пультом не проверена; может понадобиться мышь.
 Владельцам iPhone подойдёт скачивание через Downloader на телевизоре.
 
@@ -114,6 +114,5 @@ SHA-256 файла с публикацией конкретного релиза
 доступно в приложении через «Поддержка» и «О приложении».
 
 Поддержка приложения: [@TeleShelfSupportBot](https://t.me/TeleShelfSupportBot).
-Новости: [@teleshelf_tv](https://t.me/teleshelf_tv); обсуждение — через
-кнопку Discussion этого канала. Интерфейс приложения: English, Русский,
+Новости: [@teleshelf_tv](https://t.me/teleshelf_tv). Интерфейс приложения: English, Русский,
 Português (Brasil), Español (Latinoamérica).

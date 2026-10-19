@@ -7,11 +7,11 @@ prateleiras, retomada da reprodução, histórico e lista para assistir mais
 tarde. Tudo pelo controle remoto. O TeleShelf usa a API do Telegram e é um
 aplicativo independente e não oficial, sem vínculo ou endosso do Telegram.
 
-**[Baixar TeleShelf Pro 0.53.0 · compilação 73](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Código do Downloader: 6320340**
+**[Baixar TeleShelf Pro 0.54.0 · compilação 74](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Código do Downloader: 6320340**
 
 SHA-256 do APK:
 ```text
-1e9827aad90b6bbe0f67e9831578aa301ba426131ef0784384c94eca38c1a998
+3e0d000059db0195f8bc50c876833ab5f3661feb1ad6791509451f51a1dec291
 ```
 [Disponibilidade das versões](https://github.com/nimec77/teleshelf-pro/releases) ·
 [Teste, compra ou restauração](https://t.me/TeleShelfProBot?start=trial)
@@ -58,7 +58,7 @@ for utilizável (talvez com um mouse), instale-o no celular e na TV. Conecte amb
 à mesma rede local. No celular, baixe o APK em **Releases → Assets**, envie
 o arquivo pelo LocalSend e aceite na TV. Abra o APK no LocalSend ou no gerenciador
 de arquivos da TV, permita a instalação por esse app e selecione **Instalar**.
-Também é possível salvar o [documento APK oficial no Telegram](https://t.me/teleshelf_pro/10).
+Também é possível salvar o [documento APK oficial no Telegram](https://t.me/teleshelf_pro/11).
 O envio do celular à TV usando apenas o controle não foi verificado; pode exigir um mouse.
 Usuários de iPhone devem baixar diretamente pelo Downloader na TV.
 
@@ -116,6 +116,5 @@ restauração. Relatórios opcionais ficam desativados até seu consentimento.
 está disponível no aplicativo, em Suporte e Sobre.
 
 Suporte do aplicativo: [@TeleShelfSupportBot](https://t.me/TeleShelfSupportBot).
-Notícias: [@teleshelf_tv](https://t.me/teleshelf_tv); use o botão Discussion
-do canal para conversar. Idiomas da interface: English, Русский,
+Notícias: [@teleshelf_tv](https://t.me/teleshelf_tv). Idiomas da interface: English, Русский,
 Português (Brasil) e Español (Latinoamérica).
