@@ -7,11 +7,13 @@
 TeleShelf использует API Telegram. Это независимое неофициальное приложение,
 не созданное и не одобренное Telegram.
 
-**[Скачать TeleShelf Pro 0.54.0 · сборка 74](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Код Downloader: 6320340**
+**Избранное** сохраняет видео для повторного просмотра. Выберите **Добавить в избранное** в меню видео, в том числе во время воспроизведения. Список находится под «Смотреть позже» в боковой панели. Просмотр и очистка истории сохраняют избранное; «Смотреть позже» остаётся отдельной очередью.
+
+**[Скачать TeleShelf Pro 0.55.0 · сборка 75](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Код Downloader: 6320340**
 
 SHA-256 APK:
 ```text
-3e0d000059db0195f8bc50c876833ab5f3661feb1ad6791509451f51a1dec291
+82cb691dd66713b00a45dbb5bf25e3563fcf8e43874d40d7abb17c5a5749c20d
 ```
 [Доступность сборок](https://github.com/nimec77/teleshelf-pro/releases) ·
 [Пробный период, покупка и восстановление](https://t.me/TeleShelfProBot?start=trial)
@@ -56,7 +58,7 @@ https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.
 к одной локальной сети. На телефоне скачайте APK из **Releases → Assets**,
 отправьте файл на ТВ через LocalSend и примите передачу. Откройте APK через
 LocalSend или файловый менеджер ТВ, разрешите этому приложению установку
-и нажмите **Установить**. APK также доступен [документом в Telegram](https://t.me/teleshelf_pro/11).
+и нажмите **Установить**. APK также доступен [документом в Telegram](https://t.me/teleshelf_pro/12).
 Передача с телефона с управлением только пультом не проверена; может понадобиться мышь.
 Владельцам iPhone подойдёт скачивание через Downloader на телевизоре.
 
