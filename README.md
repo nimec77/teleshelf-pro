@@ -11,11 +11,13 @@ save something for later, and control everything with your TV remote.
 
 **Favorites** keeps videos for repeat watching. Choose **Add to favorites** in a video’s menu, including during playback, then open Favorites below Watch Later in the side panel. Watching a video or clearing History keeps its favorite; Watch Later remains a separate queue.
 
-**[Download TeleShelf Pro 0.55.0 · build 75](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Downloader code: 6320340**
+**Watched progress:** videos count as watched at 90% of their duration, even if you leave before the final frame. Rewinding below 90% restores resume from that position; autoplay still waits for the video to end.
+
+**[Download TeleShelf Pro 0.56.0 · build 76](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Downloader code: 6320340**
 
 APK SHA-256:
 ```text
-82cb691dd66713b00a45dbb5bf25e3563fcf8e43874d40d7abb17c5a5749c20d
+331c4c73ad10846a85b8168f712e6bd8b525929da7183da5061f185838633b19
 ```
 
 **[How to install on your TV](#install-and-sign-in)** · [Check APK availability](https://github.com/nimec77/teleshelf-pro/releases)
@@ -99,7 +101,7 @@ Use this alternative only if [LocalSend](https://localsend.org/download) is
 available and usable on your TV (a mouse may be needed):
 
 1. On the phone, open the official Releases page and download the `.apk`
-   from **Assets**, or save the [official Telegram APK document](https://t.me/teleshelf_pro/12).
+   from **Assets**, or save the [official Telegram APK document](https://t.me/teleshelf_pro/13).
 2. Open LocalSend on the Android phone and TV, connected to the same local
    Wi-Fi/network. On the phone, select the APK and send it to the TV; accept
    the transfer on the TV.
