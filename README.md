@@ -13,11 +13,13 @@ save something for later, and control everything with your TV remote.
 
 **Watched progress:** videos count as watched at 90% of their duration, even if you leave before the final frame. Rewinding below 90% restores resume from that position; autoplay still waits for the video to end.
 
-**[Download TeleShelf Pro 0.56.0 · build 76](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Downloader code: 6320340**
+**Unsupported video formats:** when the TV cannot decode a video's format, the player explains the limitation and offers Back to Home without a useless retry button. Errors that may be temporary still offer Retry.
+
+**[Download TeleShelf Pro 0.56.1 · build 77](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Downloader code: 6320340**
 
 APK SHA-256:
 ```text
-331c4c73ad10846a85b8168f712e6bd8b525929da7183da5061f185838633b19
+cf719621f1104755594a767e64a8bc06607b15c088333c4f8d218970fd181411
 ```
 
 **[How to install on your TV](#install-and-sign-in)** · [Check APK availability](https://github.com/nimec77/teleshelf-pro/releases)
@@ -101,7 +103,7 @@ Use this alternative only if [LocalSend](https://localsend.org/download) is
 available and usable on your TV (a mouse may be needed):
 
 1. On the phone, open the official Releases page and download the `.apk`
-   from **Assets**, or save the [official Telegram APK document](https://t.me/teleshelf_pro/13).
+   from **Assets**, or save the [official Telegram APK document](https://t.me/teleshelf_pro/14).
 2. Open LocalSend on the Android phone and TV, connected to the same local
    Wi-Fi/network. On the phone, select the APK and send it to the TV; accept
    the transfer on the TV.
