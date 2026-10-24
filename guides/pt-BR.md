@@ -13,11 +13,13 @@ aplicativo independente e não oficial, sem vínculo ou endosso do Telegram.
 
 **Formatos de vídeo não compatíveis:** quando a TV não consegue decodificar o formato de um vídeo, o player explica a limitação e oferece voltar ao início, sem um botão de tentar de novo que não resolveria o problema. Erros que podem ser temporários ainda permitem tentar novamente.
 
-**[Baixar TeleShelf Pro 0.56.1 · compilação 77](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Código do Downloader: 6320340**
+**Configurações:** controles e opções de idioma e teclado mais claros; confirmação da qualidade e do número de vídeos na reprodução automática; e uma janela para escolher o tamanho do cache com o controle deslizante. Cada seção lembra o foco e a rolagem. Ao restaurar vídeos ou canais ocultos, limpar o cache ou enviar diagnósticos, os erros ficam claros e é possível tentar novamente.
+
+**[Baixar TeleShelf Pro 0.57.0 · compilação 78](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Código do Downloader: 6320340**
 
 SHA-256 do APK:
 ```text
-cf719621f1104755594a767e64a8bc06607b15c088333c4f8d218970fd181411
+bd757a39f68323a34e03bea3809daee5eb17b4a1672666b70e33c0a9da697e34
 ```
 [Disponibilidade das versões](https://github.com/nimec77/teleshelf-pro/releases) ·
 [Teste, compra ou restauração](https://t.me/TeleShelfProBot?start=trial)
@@ -64,7 +66,7 @@ for utilizável (talvez com um mouse), instale-o no celular e na TV. Conecte amb
 à mesma rede local. No celular, baixe o APK em **Releases → Assets**, envie
 o arquivo pelo LocalSend e aceite na TV. Abra o APK no LocalSend ou no gerenciador
 de arquivos da TV, permita a instalação por esse app e selecione **Instalar**.
-Também é possível salvar o [documento APK oficial no Telegram](https://t.me/teleshelf_pro/14).
+Também é possível salvar o [documento APK oficial no Telegram](https://t.me/teleshelf_pro/15).
 O envio do celular à TV usando apenas o controle não foi verificado; pode exigir um mouse.
 Usuários de iPhone devem baixar diretamente pelo Downloader na TV.
 
