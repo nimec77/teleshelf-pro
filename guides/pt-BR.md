@@ -17,11 +17,13 @@ aplicativo independente e não oficial, sem vínculo ou endosso do Telegram.
 
 **Teclado da busca:** teclado compacto com inglês e mais um layout selecionado: russo, português do Brasil ou espanhol da América Latina. Acentos e Ё têm teclas próprias, e números e símbolos ficam em uma página separada. Em Configurações → Idioma → Idiomas do teclado, escolha Automático, somente inglês ou inglês com um dos três idiomas. A busca usa a mesma opção e mantém o foco ao digitar e navegar entre buscas recentes e resultados.
 
-**[Baixar TeleShelf Pro 0.58.0 · compilação 79](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Código do Downloader: 6320340**
+**Filtrar canais:** em Canais, abra o filtro acima da grade e digite parte do nome de um canal. Os resultados mudam enquanto você digita, com o mesmo teclado compacto e a mesma opção de idioma da busca. Concluir fecha o editor; limpar o filtro restaura a lista completa.
+
+**[Baixar TeleShelf Pro 0.59.0 · compilação 80](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Código do Downloader: 6320340**
 
 SHA-256 do APK:
 ```text
-9578ce5315dbbb1b25f764740635c9e23594a8d547e36ffbe10aea7d86b6bc96
+cd5f95583548151a296499caba9c754dbcc097764d4625037a4e19efcb66fc60
 ```
 [Disponibilidade das versões](https://github.com/nimec77/teleshelf-pro/releases) ·
 [Teste, compra ou restauração](https://t.me/TeleShelfProBot?start=trial)
@@ -68,7 +70,7 @@ for utilizável (talvez com um mouse), instale-o no celular e na TV. Conecte amb
 à mesma rede local. No celular, baixe o APK em **Releases → Assets**, envie
 o arquivo pelo LocalSend e aceite na TV. Abra o APK no LocalSend ou no gerenciador
 de arquivos da TV, permita a instalação por esse app e selecione **Instalar**.
-Também é possível salvar o [documento APK oficial no Telegram](https://t.me/teleshelf_pro/16).
+Também é possível salvar o [documento APK oficial no Telegram](https://t.me/teleshelf_pro/17).
 O envio do celular à TV usando apenas o controle não foi verificado; pode exigir um mouse.
 Usuários de iPhone devem baixar diretamente pelo Downloader na TV.
 
