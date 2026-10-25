@@ -17,11 +17,13 @@ save something for later, and control everything with your TV remote.
 
 **Settings:** clearer switches and language/keyboard choices, confirmed quality/autoplay choices, and a cache-size dialog that keeps the slider. Panes remember focus and scrolling; hidden-item removal, cache cleanup and diagnostics show clear errors and retry actions.
 
-**[Download TeleShelf Pro 0.57.0 · build 78](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Downloader code: 6320340**
+**Search keyboard:** a compact keyboard with English plus one selected Russian, Brazilian Portuguese or Latin American Spanish layout. Accents and Ё have dedicated keys, with a separate numbers/symbols page. In Settings → Language → Keyboard languages, choose Automatic, English only, or English plus one of the three languages. Search uses the same choice and keeps focus stable across typing, recent queries and search results.
+
+**[Download TeleShelf Pro 0.58.0 · build 79](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Downloader code: 6320340**
 
 APK SHA-256:
 ```text
-bd757a39f68323a34e03bea3809daee5eb17b4a1672666b70e33c0a9da697e34
+9578ce5315dbbb1b25f764740635c9e23594a8d547e36ffbe10aea7d86b6bc96
 ```
 
 **[How to install on your TV](#install-and-sign-in)** · [Check APK availability](https://github.com/nimec77/teleshelf-pro/releases)
@@ -105,7 +107,7 @@ Use this alternative only if [LocalSend](https://localsend.org/download) is
 available and usable on your TV (a mouse may be needed):
 
 1. On the phone, open the official Releases page and download the `.apk`
-   from **Assets**, or save the [official Telegram APK document](https://t.me/teleshelf_pro/15).
+   from **Assets**, or save the [official Telegram APK document](https://t.me/teleshelf_pro/16).
 2. Open LocalSend on the Android phone and TV, connected to the same local
    Wi-Fi/network. On the phone, select the APK and send it to the TV; accept
    the transfer on the TV.
