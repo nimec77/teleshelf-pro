@@ -21,11 +21,13 @@ save something for later, and control everything with your TV remote.
 
 **Filter channels:** on Channels, open the filter above the grid and type part of a channel name. Matches update as you type, using the same compact keyboard and language choice as Search. Done closes the editor; clearing the filter restores the full list.
 
-**[Download TeleShelf Pro 0.59.0 · build 80](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Downloader code: 6320340**
+**Loading and focus fixes:** Home keeps Continue Watching available and shows loading placeholders while channel shelves load. If the channel list fails, Retry is available. Dimmed video cards keep their focus outline.
+
+**[Download TeleShelf Pro 0.59.1 · build 81](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Downloader code: 6320340**
 
 APK SHA-256:
 ```text
-cd5f95583548151a296499caba9c754dbcc097764d4625037a4e19efcb66fc60
+a9c594095f42251548173d9b013cf2df927dac2a951ad633b45be9a43b562d92
 ```
 
 **[How to install on your TV](#install-and-sign-in)** · [Check APK availability](https://github.com/nimec77/teleshelf-pro/releases)
@@ -109,7 +111,7 @@ Use this alternative only if [LocalSend](https://localsend.org/download) is
 available and usable on your TV (a mouse may be needed):
 
 1. On the phone, open the official Releases page and download the `.apk`
-   from **Assets**, or save the [official Telegram APK document](https://t.me/teleshelf_pro/17).
+   from **Assets**, or save the [official Telegram APK document](https://t.me/teleshelf_pro/18).
 2. Open LocalSend on the Android phone and TV, connected to the same local
    Wi-Fi/network. On the phone, select the APK and send it to the TV; accept
    the transfer on the TV.

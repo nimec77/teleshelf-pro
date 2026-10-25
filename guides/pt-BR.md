@@ -19,11 +19,13 @@ aplicativo independente e não oficial, sem vínculo ou endosso do Telegram.
 
 **Filtrar canais:** em Canais, abra o filtro acima da grade e digite parte do nome de um canal. Os resultados mudam enquanto você digita, com o mesmo teclado compacto e a mesma opção de idioma da busca. Concluir fecha o editor; limpar o filtro restaura a lista completa.
 
-**[Baixar TeleShelf Pro 0.59.0 · compilação 80](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Código do Downloader: 6320340**
+**Carregamento e foco:** a tela inicial mantém Continuar assistindo disponível e mostra blocos de carregamento enquanto os vídeos dos canais carregam. Se a lista de canais falhar, é possível tentar novamente. Os cartões escurecidos mantêm o contorno de foco.
+
+**[Baixar TeleShelf Pro 0.59.1 · compilação 81](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Código do Downloader: 6320340**
 
 SHA-256 do APK:
 ```text
-cd5f95583548151a296499caba9c754dbcc097764d4625037a4e19efcb66fc60
+a9c594095f42251548173d9b013cf2df927dac2a951ad633b45be9a43b562d92
 ```
 [Disponibilidade das versões](https://github.com/nimec77/teleshelf-pro/releases) ·
 [Teste, compra ou restauração](https://t.me/TeleShelfProBot?start=trial)
@@ -70,7 +72,7 @@ for utilizável (talvez com um mouse), instale-o no celular e na TV. Conecte amb
 à mesma rede local. No celular, baixe o APK em **Releases → Assets**, envie
 o arquivo pelo LocalSend e aceite na TV. Abra o APK no LocalSend ou no gerenciador
 de arquivos da TV, permita a instalação por esse app e selecione **Instalar**.
-Também é possível salvar o [documento APK oficial no Telegram](https://t.me/teleshelf_pro/17).
+Também é possível salvar o [documento APK oficial no Telegram](https://t.me/teleshelf_pro/18).
 O envio do celular à TV usando apenas o controle não foi verificado; pode exigir um mouse.
 Usuários de iPhone devem baixar diretamente pelo Downloader na TV.
 
