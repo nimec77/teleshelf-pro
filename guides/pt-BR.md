@@ -21,11 +21,13 @@ aplicativo independente e não oficial, sem vínculo ou endosso do Telegram.
 
 **Carregamento e foco:** a tela inicial mantém Continuar assistindo disponível e mostra blocos de carregamento enquanto os vídeos dos canais carregam. Se a lista de canais falhar, é possível tentar novamente. Os cartões escurecidos mantêm o contorno de foco.
 
-**[Baixar TeleShelf Pro 0.59.1 · compilação 81](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Código do Downloader: 6320340**
+**Confiabilidade e privacidade:** troca de conta com limpeza isolada e opção de tentar novamente; listas de canais e pesquisa continuam a carregar mesmo com resultados ocultos ou repetidos. Correções de reprodução, controles de fone, reações e Continuar assistindo do launcher. Menos metadados retidos e melhor proteção de backups e diagnósticos.
+
+**[Baixar TeleShelf Pro 0.59.2 · compilação 82](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Código do Downloader: 6320340**
 
 SHA-256 do APK:
 ```text
-a9c594095f42251548173d9b013cf2df927dac2a951ad633b45be9a43b562d92
+0b2ff716c046f7429561a862cbb5aaa946ae64f813371f7bb5a699d2ada2b1cc
 ```
 [Disponibilidade das versões](https://github.com/nimec77/teleshelf-pro/releases) ·
 [Teste, compra ou restauração](https://t.me/TeleShelfProBot?start=trial)
@@ -72,7 +74,7 @@ for utilizável (talvez com um mouse), instale-o no celular e na TV. Conecte amb
 à mesma rede local. No celular, baixe o APK em **Releases → Assets**, envie
 o arquivo pelo LocalSend e aceite na TV. Abra o APK no LocalSend ou no gerenciador
 de arquivos da TV, permita a instalação por esse app e selecione **Instalar**.
-Também é possível salvar o [documento APK oficial no Telegram](https://t.me/teleshelf_pro/18).
+Também é possível salvar o [documento APK oficial no Telegram](https://t.me/teleshelf_pro/19).
 O envio do celular à TV usando apenas o controle não foi verificado; pode exigir um mouse.
 Usuários de iPhone devem baixar diretamente pelo Downloader na TV.
 

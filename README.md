@@ -23,11 +23,13 @@ save something for later, and control everything with your TV remote.
 
 **Loading and focus fixes:** Home keeps Continue Watching available and shows loading placeholders while channel shelves load. If the channel list fails, Retry is available. Dimmed video cards keep their focus outline.
 
-**[Download TeleShelf Pro 0.59.1 · build 81](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Downloader code: 6320340**
+**Reliability and privacy:** Safer account changes and retryable cleanup; channel/search lists continue through hidden or duplicate results. Playback and headset controls, reaction counts and TV launcher updates are more reliable. Video metadata retention is bounded, and backup/diagnostic privacy is hardened.
+
+**[Download TeleShelf Pro 0.59.2 · build 82](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Downloader code: 6320340**
 
 APK SHA-256:
 ```text
-a9c594095f42251548173d9b013cf2df927dac2a951ad633b45be9a43b562d92
+0b2ff716c046f7429561a862cbb5aaa946ae64f813371f7bb5a699d2ada2b1cc
 ```
 
 **[How to install on your TV](#install-and-sign-in)** · [Check APK availability](https://github.com/nimec77/teleshelf-pro/releases)
@@ -111,7 +113,7 @@ Use this alternative only if [LocalSend](https://localsend.org/download) is
 available and usable on your TV (a mouse may be needed):
 
 1. On the phone, open the official Releases page and download the `.apk`
-   from **Assets**, or save the [official Telegram APK document](https://t.me/teleshelf_pro/18).
+   from **Assets**, or save the [official Telegram APK document](https://t.me/teleshelf_pro/19).
 2. Open LocalSend on the Android phone and TV, connected to the same local
    Wi-Fi/network. On the phone, select the APK and send it to the TV; accept
    the transfer on the TV.
