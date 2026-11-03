@@ -25,11 +25,13 @@ TeleShelf использует API Telegram. Это независимое не�
 
 **Хранилище:** Восстанавливаемые базы, изображения и временные файлы теперь находятся в кэше с автоматическими лимитами. Очистка кэша сохраняет вход, историю и сохранённые видео; при нехватке места можно повторить попытку. «Без лимита» относится только к видео.
 
-**[Скачать TeleShelf Pro 0.60.0 · сборка 83](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Код Downloader: 6320340**
+**Восстановление после очистки кэша:** Видео на главной загружаются автоматически, без перезапуска приложения.
+
+**[Скачать TeleShelf Pro 0.60.1 · сборка 84](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Код Downloader: 6320340**
 
 SHA-256 APK:
 ```text
-2063de5c0316d717b8e3a6adcf03e723535fad9b5e37a7bff74aa971b31036a3
+44e6c77a24f3d6697916515c27eaf5da48f101f3ff617132b767a9aaaaaf4431
 ```
 [Доступность сборок](https://github.com/nimec77/teleshelf-pro/releases) ·
 [Пробный период, покупка и восстановление](https://t.me/TeleShelfProBot?start=trial)
@@ -74,7 +76,7 @@ https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.
 к одной локальной сети. На телефоне скачайте APK из **Releases → Assets**,
 отправьте файл на ТВ через LocalSend и примите передачу. Откройте APK через
 LocalSend или файловый менеджер ТВ, разрешите этому приложению установку
-и нажмите **Установить**. APK также доступен [документом в Telegram](https://t.me/teleshelf_pro/20).
+и нажмите **Установить**. APK также доступен [документом в Telegram](https://t.me/teleshelf_pro/21).
 Передача с телефона с управлением только пультом не проверена; может понадобиться мышь.
 Владельцам iPhone подойдёт скачивание через Downloader на телевизоре.
 

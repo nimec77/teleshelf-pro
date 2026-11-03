@@ -27,11 +27,13 @@ save something for later, and control everything with your TV remote.
 
 **Storage:** Rebuildable databases, images and temporary files now use bounded cache storage. Clearing cache keeps your sign-in, history and saved videos; low-storage recovery offers a safe retry. No limit applies only to videos.
 
-**[Download TeleShelf Pro 0.60.0 · build 83](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Downloader code: 6320340**
+**Cache recovery:** After clearing cache, Home automatically reloads channel videos without requiring an app restart.
+
+**[Download TeleShelf Pro 0.60.1 · build 84](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Downloader code: 6320340**
 
 APK SHA-256:
 ```text
-2063de5c0316d717b8e3a6adcf03e723535fad9b5e37a7bff74aa971b31036a3
+44e6c77a24f3d6697916515c27eaf5da48f101f3ff617132b767a9aaaaaf4431
 ```
 
 **[How to install on your TV](#install-and-sign-in)** · [Check APK availability](https://github.com/nimec77/teleshelf-pro/releases)
@@ -115,7 +117,7 @@ Use this alternative only if [LocalSend](https://localsend.org/download) is
 available and usable on your TV (a mouse may be needed):
 
 1. On the phone, open the official Releases page and download the `.apk`
-   from **Assets**, or save the [official Telegram APK document](https://t.me/teleshelf_pro/20).
+   from **Assets**, or save the [official Telegram APK document](https://t.me/teleshelf_pro/21).
 2. Open LocalSend on the Android phone and TV, connected to the same local
    Wi-Fi/network. On the phone, select the APK and send it to the TV; accept
    the transfer on the TV.
