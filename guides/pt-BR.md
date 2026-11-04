@@ -27,11 +27,11 @@ aplicativo independente e não oficial, sem vínculo ou endosso do Telegram.
 
 **Recuperação após limpar o cache:** Os vídeos da página inicial voltam a carregar automaticamente, sem reiniciar o aplicativo.
 
-**[Baixar TeleShelf Pro 0.60.1 · compilação 84](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Código do Downloader: 6320340**
+**[Baixar TeleShelf Pro 0.61.0 · compilação 85](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Código do Downloader: 6320340**
 
 SHA-256 do APK:
 ```text
-44e6c77a24f3d6697916515c27eaf5da48f101f3ff617132b767a9aaaaaf4431
+6bbbe3795ef0d34262c6ad37f8985016610fe189152f0ad9c41937fd2b7b0bf6
 ```
 [Disponibilidade das versões](https://github.com/nimec77/teleshelf-pro/releases) ·
 [Teste, compra ou restauração](https://t.me/TeleShelfProBot?start=trial)
@@ -78,7 +78,7 @@ for utilizável (talvez com um mouse), instale-o no celular e na TV. Conecte amb
 à mesma rede local. No celular, baixe o APK em **Releases → Assets**, envie
 o arquivo pelo LocalSend e aceite na TV. Abra o APK no LocalSend ou no gerenciador
 de arquivos da TV, permita a instalação por esse app e selecione **Instalar**.
-Também é possível salvar o [documento APK oficial no Telegram](https://t.me/teleshelf_pro/21).
+Também é possível salvar o [documento APK oficial no Telegram](https://t.me/teleshelf_pro/22).
 O envio do celular à TV usando apenas o controle não foi verificado; pode exigir um mouse.
 Usuários de iPhone devem baixar diretamente pelo Downloader na TV.
 
@@ -86,7 +86,9 @@ Usuários de iPhone devem baixar diretamente pelo Downloader na TV.
 
 Abra o TeleShelf e escaneie o QR da TV pelo leitor de conexão de dispositivos
 do Telegram no celular. Confirme a conexão; digite na TV a senha de verificação
-em duas etapas do Telegram se solicitado. Depois, abra @TeleShelfProBot no
+em duas etapas do Telegram se solicitado. Feche o teclado com Voltar e use
+**Mostrar senha** ou **Ocultar senha** para conferir a digitação.
+Depois, abra @TeleShelfProBot no
 celular com a mesma conta e inicie o teste. Se necessário, selecione
 **Verificar acesso** na TV. Para acesso existente, envie `/restore` ao bot.
 

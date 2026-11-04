@@ -27,11 +27,11 @@ TeleShelf использует API Telegram. Это независимое не�
 
 **Восстановление после очистки кэша:** Видео на главной загружаются автоматически, без перезапуска приложения.
 
-**[Скачать TeleShelf Pro 0.60.1 · сборка 84](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Код Downloader: 6320340**
+**[Скачать TeleShelf Pro 0.61.0 · сборка 85](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Код Downloader: 6320340**
 
 SHA-256 APK:
 ```text
-44e6c77a24f3d6697916515c27eaf5da48f101f3ff617132b767a9aaaaaf4431
+6bbbe3795ef0d34262c6ad37f8985016610fe189152f0ad9c41937fd2b7b0bf6
 ```
 [Доступность сборок](https://github.com/nimec77/teleshelf-pro/releases) ·
 [Пробный период, покупка и восстановление](https://t.me/TeleShelfProBot?start=trial)
@@ -76,7 +76,7 @@ https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.
 к одной локальной сети. На телефоне скачайте APK из **Releases → Assets**,
 отправьте файл на ТВ через LocalSend и примите передачу. Откройте APK через
 LocalSend или файловый менеджер ТВ, разрешите этому приложению установку
-и нажмите **Установить**. APK также доступен [документом в Telegram](https://t.me/teleshelf_pro/21).
+и нажмите **Установить**. APK также доступен [документом в Telegram](https://t.me/teleshelf_pro/22).
 Передача с телефона с управлением только пультом не проверена; может понадобиться мышь.
 Владельцам iPhone подойдёт скачивание через Downloader на телевизоре.
 
@@ -84,7 +84,9 @@ LocalSend или файловый менеджер ТВ, разрешите эт
 
 Откройте TeleShelf и отсканируйте QR на ТВ через сканер подключения устройств
 в Telegram на телефоне. Подтвердите подключение; при запросе введите пароль
-двухэтапной проверки Telegram на ТВ. Затем откройте @TeleShelfProBot на телефоне
+двухэтапной проверки Telegram на ТВ. Закройте клавиатуру кнопкой «Назад», затем
+выберите «Показать пароль» или «Скрыть пароль», чтобы проверить ввод.
+Затем откройте @TeleShelfProBot на телефоне
 с тем же аккаунтом и запустите пробный период. При необходимости выберите
 «Проверить доступ» на ТВ. Для имеющегося доступа отправьте `/restore` боту.
 

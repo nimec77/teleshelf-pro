@@ -29,11 +29,11 @@ save something for later, and control everything with your TV remote.
 
 **Cache recovery:** After clearing cache, Home automatically reloads channel videos without requiring an app restart.
 
-**[Download TeleShelf Pro 0.60.1 · build 84](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Downloader code: 6320340**
+**[Download TeleShelf Pro 0.61.0 · build 85](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Downloader code: 6320340**
 
 APK SHA-256:
 ```text
-44e6c77a24f3d6697916515c27eaf5da48f101f3ff617132b767a9aaaaaf4431
+6bbbe3795ef0d34262c6ad37f8985016610fe189152f0ad9c41937fd2b7b0bf6
 ```
 
 **[How to install on your TV](#install-and-sign-in)** · [Check APK availability](https://github.com/nimec77/teleshelf-pro/releases)
@@ -117,7 +117,7 @@ Use this alternative only if [LocalSend](https://localsend.org/download) is
 available and usable on your TV (a mouse may be needed):
 
 1. On the phone, open the official Releases page and download the `.apk`
-   from **Assets**, or save the [official Telegram APK document](https://t.me/teleshelf_pro/21).
+   from **Assets**, or save the [official Telegram APK document](https://t.me/teleshelf_pro/22).
 2. Open LocalSend on the Android phone and TV, connected to the same local
    Wi-Fi/network. On the phone, select the APK and send it to the TV; accept
    the transfer on the TV.
@@ -134,6 +134,8 @@ iPhone users should use the direct TV method above.
 1. Open TeleShelf on the TV. Use Telegram's device-link QR scanner on your
    phone to scan the TV's login code and confirm the connection. Enter your
    Telegram two-step verification password on the TV if requested.
+   Press Back to close the keyboard, then use **Show password** / **Hide password**
+   to check your entry. Return to the field to continue typing.
 2. On the phone, open [@TeleShelfProBot](https://t.me/TeleShelfProBot?start=trial)
    with **the same Telegram account**. Press **Start free trial** when you
    are ready to begin the account's 14 days. Installing or opening the bot
