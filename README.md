@@ -31,11 +31,13 @@ save something for later, and control everything with your TV remote.
 
 **News and updates:** Open **Settings → About → TeleShelf on Telegram** and scan the QR with your phone to open [@teleshelf_tv](https://t.me/teleshelf_tv).
 
-**[Download TeleShelf Pro 0.62.0 · build 86](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Downloader code: 6320340**
+**Navigation fixes (0.62.1):** Home keeps visible focus after sign-in. After hiding a Search result, focus returns to a nearby result or the search field. Changing the interface language keeps Settings on Language with the selected option focused. The remote’s Search button opens in-app Search from Channels; Back returns to the channel tile or filter editor. The startup splash is centered. Comment counts refresh correctly, including when no comments remain; if the comments button disappears, focus moves to an available control.
+
+**[Download TeleShelf Pro 0.62.1 · build 87](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Downloader code: 6320340**
 
 APK SHA-256:
 ```text
-d956bf5bde71d9cae8914ecc14370c213f9016232720896c30955b2102dc85a5
+da317581ab8c6bcb3ee36160bc34d4c7891695558f042e6d9eee8c8e4ab3fca9
 ```
 
 **[How to install on your TV](#install-and-sign-in)** · [Check APK availability](https://github.com/nimec77/teleshelf-pro/releases)
@@ -119,7 +121,7 @@ Use this alternative only if [LocalSend](https://localsend.org/download) is
 available and usable on your TV (a mouse may be needed):
 
 1. On the phone, open the official Releases page and download the `.apk`
-   from **Assets**, or save the [official Telegram APK document](https://t.me/teleshelf_pro/23).
+   from **Assets**, or save the [official Telegram APK document](https://t.me/teleshelf_pro/24).
 2. Open LocalSend on the Android phone and TV, connected to the same local
    Wi-Fi/network. On the phone, select the APK and send it to the TV; accept
    the transfer on the TV.
