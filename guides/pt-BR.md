@@ -31,11 +31,13 @@ aplicativo independente e não oficial, sem vínculo ou endosso do Telegram.
 
 **Correções de navegação (0.62.1):** A tela inicial mantém o foco visível após entrar. Ao ocultar um resultado da busca, o foco volta para um resultado próximo ou para o campo de busca. Mudar o idioma mantém a seção Idioma nas Configurações com o foco na opção selecionada. O botão de busca do controle abre a busca do aplicativo em Canais; Voltar retorna ao cartão do canal ou ao editor do filtro. A tela de abertura fica centralizada. A contagem de comentários é atualizada corretamente, inclusive quando chega a zero; se o botão de comentários desaparecer, o foco passa para um controle disponível.
 
-**[Baixar TeleShelf Pro 0.62.1 · compilação 87](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Código do Downloader: 6320340**
+**Leitura de posts (0.62.2):** Os títulos aparecem completos, sem cortar palavras ou emojis nem repetir o título no corpo do texto. Posts que contêm apenas o título deixam de mostrar uma mensagem incorreta de texto ausente.
+
+**[Baixar TeleShelf Pro 0.62.2 · compilação 88](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Código do Downloader: 6320340**
 
 SHA-256 do APK:
 ```text
-da317581ab8c6bcb3ee36160bc34d4c7891695558f042e6d9eee8c8e4ab3fca9
+bf971515375bf00d68db14d3dc2b5af1d2bc89dcf142f63a8176db9ff904ba20
 ```
 [Disponibilidade das versões](https://github.com/nimec77/teleshelf-pro/releases) ·
 [Teste, compra ou restauração](https://t.me/TeleShelfProBot?start=trial)
@@ -82,7 +84,7 @@ for utilizável (talvez com um mouse), instale-o no celular e na TV. Conecte amb
 à mesma rede local. No celular, baixe o APK em **Releases → Assets**, envie
 o arquivo pelo LocalSend e aceite na TV. Abra o APK no LocalSend ou no gerenciador
 de arquivos da TV, permita a instalação por esse app e selecione **Instalar**.
-Também é possível salvar o [documento APK oficial no Telegram](https://t.me/teleshelf_pro/24).
+Também é possível salvar o [documento APK oficial no Telegram](https://t.me/teleshelf_pro/25).
 O envio do celular à TV usando apenas o controle não foi verificado; pode exigir um mouse.
 Usuários de iPhone devem baixar diretamente pelo Downloader na TV.
 
