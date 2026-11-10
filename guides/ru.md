@@ -33,11 +33,13 @@ TeleShelf использует API Telegram. Это независимое не�
 
 **Чтение постов (0.62.2):** Заголовки отображаются целиком: слова и эмодзи не обрезаются, заголовок не повторяется в основном тексте. Если пост состоит только из заголовка, сообщение об отсутствии текста больше не показывается.
 
-**[Скачать TeleShelf Pro 0.62.2 · сборка 88](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Код Downloader: 6320340**
+**Фокус в комментариях (0.62.3):** Рамка выделения комментария теперь видна целиком, в том числе у первого и последнего комментария и после прокрутки.
+
+**[Скачать TeleShelf Pro 0.62.3 · сборка 89](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Код Downloader: 6320340**
 
 SHA-256 APK:
 ```text
-bf971515375bf00d68db14d3dc2b5af1d2bc89dcf142f63a8176db9ff904ba20
+6616336bac6cc2b94055cc741f6583466ff1b13f4b47f250fdce6dd836668683
 ```
 [Доступность сборок](https://github.com/nimec77/teleshelf-pro/releases) ·
 [Пробный период, покупка и восстановление](https://t.me/TeleShelfProBot?start=trial)
@@ -82,7 +84,7 @@ https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.
 к одной локальной сети. На телефоне скачайте APK из **Releases → Assets**,
 отправьте файл на ТВ через LocalSend и примите передачу. Откройте APK через
 LocalSend или файловый менеджер ТВ, разрешите этому приложению установку
-и нажмите **Установить**. APK также доступен [документом в Telegram](https://t.me/teleshelf_pro/25).
+и нажмите **Установить**. APK также доступен [документом в Telegram](https://t.me/teleshelf_pro/26).
 Передача с телефона с управлением только пультом не проверена; может понадобиться мышь.
 Владельцам iPhone подойдёт скачивание через Downloader на телевизоре.
 

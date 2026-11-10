@@ -35,11 +35,13 @@ save something for later, and control everything with your TV remote.
 
 **Post reader (0.62.2):** Post headlines appear in full, without cutting words or emoji or repeating the headline in the body. Posts containing only a headline no longer show a misleading empty-text message.
 
-**[Download TeleShelf Pro 0.62.2 · build 88](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Downloader code: 6320340**
+**Comment focus (0.62.3):** Focused comments keep their complete selection border visible, including the first and last comments and rows reached by scrolling.
+
+**[Download TeleShelf Pro 0.62.3 · build 89](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Downloader code: 6320340**
 
 APK SHA-256:
 ```text
-bf971515375bf00d68db14d3dc2b5af1d2bc89dcf142f63a8176db9ff904ba20
+6616336bac6cc2b94055cc741f6583466ff1b13f4b47f250fdce6dd836668683
 ```
 
 **[How to install on your TV](#install-and-sign-in)** · [Check APK availability](https://github.com/nimec77/teleshelf-pro/releases)
@@ -123,7 +125,7 @@ Use this alternative only if [LocalSend](https://localsend.org/download) is
 available and usable on your TV (a mouse may be needed):
 
 1. On the phone, open the official Releases page and download the `.apk`
-   from **Assets**, or save the [official Telegram APK document](https://t.me/teleshelf_pro/25).
+   from **Assets**, or save the [official Telegram APK document](https://t.me/teleshelf_pro/26).
 2. Open LocalSend on the Android phone and TV, connected to the same local
    Wi-Fi/network. On the phone, select the APK and send it to the TV; accept
    the transfer on the TV.
