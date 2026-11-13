@@ -4,10 +4,12 @@
 
 **Your Telegram videos, at home on TV.**
 
-Browse the channels you follow as video shelves. Resume where you stopped,
+Browse your joined channels and groups as video shelves. Resume where you stopped,
 save something for later, and control everything with your TV remote.
 
 [English](README.md) · [Русский](guides/ru.md) · [Português (Brasil)](guides/pt-BR.md) · [Español (Latinoamérica)](guides/es-419.md)
+
+**Joined groups (0.63.0):** Videos and video messages from your joined groups, including forums and archived groups, now appear beside channels. Search your channels and groups together, see member counts and matching menu labels, and keep group names on saved videos. Popular stays limited to channels.
 
 **Favorites** keeps videos for repeat watching. Choose **Add to favorites** in a video’s menu, including during playback, then open Favorites below Watch Later in the side panel. Watching a video or clearing History keeps its favorite; Watch Later remains a separate queue.
 
@@ -19,7 +21,7 @@ save something for later, and control everything with your TV remote.
 
 **Search keyboard:** a compact keyboard with English plus one selected Russian, Brazilian Portuguese or Latin American Spanish layout. Accents and Ё have dedicated keys, with a separate numbers/symbols page. In Settings → Language → Keyboard languages, choose Automatic, English only, or English plus one of the three languages. Search uses the same choice and keeps focus stable across typing, recent queries and search results.
 
-**Filter channels:** on Channels, open the filter above the grid and type part of a channel name. Matches update as you type, using the same compact keyboard and language choice as Search. Done closes the editor; clearing the filter restores the full list.
+**Filter channels and groups:** on Channels & groups, open the filter above the grid and type part of a name. Matches update as you type, using the same compact keyboard and language choice as Search. Done closes the editor; clearing the filter restores the full list.
 
 **Loading and focus fixes:** Home keeps Continue Watching available and shows loading placeholders while channel shelves load. If the channel list fails, Retry is available. Dimmed video cards keep their focus outline.
 
@@ -37,11 +39,11 @@ save something for later, and control everything with your TV remote.
 
 **Comment focus (0.62.3):** Focused comments keep their complete selection border visible, including the first and last comments and rows reached by scrolling.
 
-**[Download TeleShelf Pro 0.62.3 · build 89](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Downloader code: 6320340**
+**[Download TeleShelf Pro 0.63.0 · build 90](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Downloader code: 6320340**
 
 APK SHA-256:
 ```text
-6616336bac6cc2b94055cc741f6583466ff1b13f4b47f250fdce6dd836668683
+adde5cf25a197a1bcd77367c1ca1bf044b9e41f28e651e21f5be1f9371e381c4
 ```
 
 **[How to install on your TV](#install-and-sign-in)** · [Check APK availability](https://github.com/nimec77/teleshelf-pro/releases)
@@ -125,7 +127,7 @@ Use this alternative only if [LocalSend](https://localsend.org/download) is
 available and usable on your TV (a mouse may be needed):
 
 1. On the phone, open the official Releases page and download the `.apk`
-   from **Assets**, or save the [official Telegram APK document](https://t.me/teleshelf_pro/26).
+   from **Assets**, or save the [official Telegram APK document](https://t.me/teleshelf_pro/27).
 2. Open LocalSend on the Android phone and TV, connected to the same local
    Wi-Fi/network. On the phone, select the APK and send it to the TV; accept
    the transfer on the TV.

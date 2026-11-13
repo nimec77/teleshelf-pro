@@ -2,10 +2,12 @@
 
 [English](../README.md) · [Русский](ru.md) · Português (Brasil) · [Español (Latinoamérica)](es-419.md)
 
-Os vídeos dos canais que você segue no Telegram, organizados na TV:
+Os vídeos dos seus canais e grupos no Telegram, organizados na TV:
 prateleiras, retomada da reprodução, histórico e lista para assistir mais
 tarde. Tudo pelo controle remoto. O TeleShelf usa a API do Telegram e é um
 aplicativo independente e não oficial, sem vínculo ou endosso do Telegram.
+
+**Grupos (0.63.0):** Vídeos e mensagens de vídeo dos seus grupos, incluindo fóruns e grupos arquivados, agora aparecem junto aos canais. Pesquise em canais e grupos, veja o número de membros e ações adequadas para grupos. Os vídeos salvos mantêm o nome do grupo. Populares continua limitado aos canais.
 
 **Favoritos** guarda vídeos para assistir novamente. Escolha **Adicionar aos favoritos** no menu de um vídeo, inclusive durante a reprodução, e abra Favoritos abaixo de Assistir mais tarde no painel lateral. Assistir ao vídeo ou limpar o histórico mantém o favorito; Assistir mais tarde continua sendo uma fila separada.
 
@@ -17,7 +19,7 @@ aplicativo independente e não oficial, sem vínculo ou endosso do Telegram.
 
 **Teclado da busca:** teclado compacto com inglês e mais um layout selecionado: russo, português do Brasil ou espanhol da América Latina. Acentos e Ё têm teclas próprias, e números e símbolos ficam em uma página separada. Em Configurações → Idioma → Idiomas do teclado, escolha Automático, somente inglês ou inglês com um dos três idiomas. A busca usa a mesma opção e mantém o foco ao digitar e navegar entre buscas recentes e resultados.
 
-**Filtrar canais:** em Canais, abra o filtro acima da grade e digite parte do nome de um canal. Os resultados mudam enquanto você digita, com o mesmo teclado compacto e a mesma opção de idioma da busca. Concluir fecha o editor; limpar o filtro restaura a lista completa.
+**Filtrar canais e grupos:** em Canais e grupos, abra o filtro acima da grade e digite parte do nome. A lista é atualizada enquanto você digita, com o mesmo teclado e idioma da Busca. Concluir fecha o editor; limpar o filtro restaura a lista completa.
 
 **Carregamento e foco:** a tela inicial mantém Continuar assistindo disponível e mostra blocos de carregamento enquanto os vídeos dos canais carregam. Se a lista de canais falhar, é possível tentar novamente. Os cartões escurecidos mantêm o contorno de foco.
 
@@ -35,11 +37,11 @@ aplicativo independente e não oficial, sem vínculo ou endosso do Telegram.
 
 **Foco nos comentários (0.62.3):** A borda de seleção dos comentários fica totalmente visível, inclusive no primeiro e no último comentário e após rolar a lista.
 
-**[Baixar TeleShelf Pro 0.62.3 · compilação 89](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Código do Downloader: 6320340**
+**[Baixar TeleShelf Pro 0.63.0 · compilação 90](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Código do Downloader: 6320340**
 
 SHA-256 do APK:
 ```text
-6616336bac6cc2b94055cc741f6583466ff1b13f4b47f250fdce6dd836668683
+adde5cf25a197a1bcd77367c1ca1bf044b9e41f28e651e21f5be1f9371e381c4
 ```
 [Disponibilidade das versões](https://github.com/nimec77/teleshelf-pro/releases) ·
 [Teste, compra ou restauração](https://t.me/TeleShelfProBot?start=trial)
@@ -86,7 +88,7 @@ for utilizável (talvez com um mouse), instale-o no celular e na TV. Conecte amb
 à mesma rede local. No celular, baixe o APK em **Releases → Assets**, envie
 o arquivo pelo LocalSend e aceite na TV. Abra o APK no LocalSend ou no gerenciador
 de arquivos da TV, permita a instalação por esse app e selecione **Instalar**.
-Também é possível salvar o [documento APK oficial no Telegram](https://t.me/teleshelf_pro/26).
+Também é possível salvar o [documento APK oficial no Telegram](https://t.me/teleshelf_pro/27).
 O envio do celular à TV usando apenas o controle não foi verificado; pode exigir um mouse.
 Usuários de iPhone devem baixar diretamente pelo Downloader na TV.
 
