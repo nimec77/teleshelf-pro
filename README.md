@@ -9,6 +9,8 @@ save something for later, and control everything with your TV remote.
 
 [English](README.md) · [Русский](guides/ru.md) · [Português (Brasil)](guides/pt-BR.md) · [Español (Latinoamérica)](guides/es-419.md)
 
+**Next-video headlines (0.63.1):** The next-video preview shows the complete post headline instead of cutting off words or emoji at the old title limit. Long headlines wrap and use an ellipsis when needed.
+
 **Joined groups (0.63.0):** Videos and video messages from your joined groups, including forums and archived groups, now appear beside channels. Search your channels and groups together, see member counts and matching menu labels, and keep group names on saved videos. Popular stays limited to channels.
 
 **Favorites** keeps videos for repeat watching. Choose **Add to favorites** in a video’s menu, including during playback, then open Favorites below Watch Later in the side panel. Watching a video or clearing History keeps its favorite; Watch Later remains a separate queue.
@@ -39,11 +41,11 @@ save something for later, and control everything with your TV remote.
 
 **Comment focus (0.62.3):** Focused comments keep their complete selection border visible, including the first and last comments and rows reached by scrolling.
 
-**[Download TeleShelf Pro 0.63.0 · build 90](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Downloader code: 6320340**
+**[Download TeleShelf Pro 0.63.1 · build 91](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Downloader code: 6320340**
 
 APK SHA-256:
 ```text
-adde5cf25a197a1bcd77367c1ca1bf044b9e41f28e651e21f5be1f9371e381c4
+48bd37dcea25e8148ae55e132e296ca75b8dae4a80138c0ab4be426a172e057b
 ```
 
 **[How to install on your TV](#install-and-sign-in)** · [Check APK availability](https://github.com/nimec77/teleshelf-pro/releases)
@@ -127,7 +129,7 @@ Use this alternative only if [LocalSend](https://localsend.org/download) is
 available and usable on your TV (a mouse may be needed):
 
 1. On the phone, open the official Releases page and download the `.apk`
-   from **Assets**, or save the [official Telegram APK document](https://t.me/teleshelf_pro/27).
+   from **Assets**, or save the [official Telegram APK document](https://t.me/teleshelf_pro/28).
 2. Open LocalSend on the Android phone and TV, connected to the same local
    Wi-Fi/network. On the phone, select the APK and send it to the TV; accept
    the transfer on the TV.
