@@ -1,6 +1,6 @@
 # TeleShelf Privacy Policy
 
-**Version 1 · Effective 18 October 2026.**
+**Version 2 · Effective 16 November 2026.**
 
 [Policy archive](https://github.com/nimec77/teleshelf-pro/tree/main/privacy).
 
@@ -147,6 +147,24 @@ documented recovery windows; erasure is also reapplied before using recovered da
 
 Cloudflare processes the Pro bot's requests and records. See
 [Cloudflare's privacy policy](https://www.cloudflare.com/privacypolicy/).
+
+## Optional app updates
+
+TeleShelf may check a small public release record on GitHub, normally at most once
+per 24 hours. Manual checks are available in About and on a settled access screen.
+An optional offer can be postponed or skipped; installation requires explicit actions
+in TeleShelf and Android. Checks and APK downloads contact GitHub and its delivery
+network, which receive ordinary request information such as the connecting IP address.
+TeleShelf does not attach Telegram account IDs, channel lists, chat/media content,
+diagnostics identifiers or update analytics. This functional update traffic is separate
+from the optional diagnostics-sharing answer; declining reports does not disable it.
+
+Update reminder/skip preferences, temporary verified APKs and the installer-attempt
+journal stay on this TV, independently of the signed-in account. Temporary APKs are
+included in Other cache and explicit Clear cache. They are not a Telegram media cache
+or an account backup. Android owns the final confirmation and installation result.
+The developer operates no update telemetry endpoint and makes no claim about GitHub's
+own network-log retention. Manual installation remains available.
 
 ## Optional crash reports and usage statistics
 

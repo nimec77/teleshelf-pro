@@ -7,6 +7,8 @@ prateleiras, retomada da reprodução, histórico e lista para assistir mais
 tarde. Tudo pelo controle remoto. O TeleShelf usa a API do Telegram e é um
 aplicativo independente e não oficial, sem vínculo ou endosso do Telegram.
 
+**Atualizações opcionais (0.65.0):** Verifique em Sobre ou na tela de acesso, baixe uma atualização verificada em primeiro plano e confirme a instalação no Android. Adie o lembrete ou pule uma versão. Instale esta versão uma vez pelo método manual existente para obter esses controles.
+
 **Atualização de manutenção (0.64.0):** Ferramentas de compilação atualizadas e verificações de compilações e capturas de tela da TV reforçadas.
 
 **Títulos do próximo vídeo (0.63.1):** A prévia do próximo vídeo usa o título completo da publicação, sem cortar palavras ou emojis no limite antigo. Títulos longos quebram em linhas e usam reticências quando necessário.
@@ -41,14 +43,22 @@ aplicativo independente e não oficial, sem vínculo ou endosso do Telegram.
 
 **Foco nos comentários (0.62.3):** A borda de seleção dos comentários fica totalmente visível, inclusive no primeiro e no último comentário e após rolar a lista.
 
-**[Baixar TeleShelf Pro 0.64.0 · compilação 92](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Código do Downloader: 6320340**
+**[Baixar TeleShelf Pro 0.65.0 · compilação 93](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Código do Downloader: 6320340**
 
 SHA-256 do APK:
 ```text
-b4daf7d94d85c67a24d8ac341ddc8b09dd5a1e74c83e514fd930411b469c800f
+fe82592498def816c0405d965da0d9520e57e30f4fc69777331b8b083f7baa6c
 ```
 [Disponibilidade das versões](https://github.com/nimec77/teleshelf-pro/releases) ·
 [Teste, compra ou restauração](https://t.me/TeleShelfProBot?start=trial)
+
+## Atualizações opcionais do aplicativo
+
+A partir da versão 0.65.0, o TeleShelf pode oferecer uma atualização quando a tela inicial estiver ociosa ou a tela de acesso estiver estável. Você também pode escolher Verificar atualizações em Configurações → Sobre, em Sobre antes de entrar ou na tela de acesso bloqueado. Lembrar mais tarde adia os lembretes por 72 horas; Pular esta versão oculta essa versão e as anteriores. A verificação manual continua disponível.
+
+Quando solicitado, permita que o TeleShelf instale aplicativos, volte e pressione Atualizar novamente. O download acontece apenas em primeiro plano e usa armazenamento temporário privado. Após a verificação, um novo toque em Instalar abre a confirmação do Android. Instale sobre o aplicativo existente para manter o login, a biblioteca e as configurações. Você pode cancelar ou seguir a instalação manual abaixo. O código do Downloader **6320340** continua apontando para a versão pública mais recente, que pode ser diferente de uma oferta antiga.
+
+As verificações e os downloads de APK acessam o GitHub e sua rede de distribuição. Esses serviços recebem informações comuns de rede, como seu endereço IP. O TeleShelf não envia ID de conta do Telegram, lista de canais, conteúdo, ID de diagnóstico nem análises de atualizações nessas solicitações. Esse tráfego funcional é separado da opção de compartilhar diagnósticos. Consulte a [política de privacidade](../PRIVACY.md).
 
 ## Instalação e acesso
 
@@ -92,7 +102,7 @@ for utilizável (talvez com um mouse), instale-o no celular e na TV. Conecte amb
 à mesma rede local. No celular, baixe o APK em **Releases → Assets**, envie
 o arquivo pelo LocalSend e aceite na TV. Abra o APK no LocalSend ou no gerenciador
 de arquivos da TV, permita a instalação por esse app e selecione **Instalar**.
-Também é possível salvar o [documento APK oficial no Telegram](https://t.me/teleshelf_pro/29).
+Também é possível salvar o [documento APK oficial no Telegram](https://t.me/teleshelf_pro/30).
 O envio do celular à TV usando apenas o controle não foi verificado; pode exigir um mouse.
 Usuários de iPhone devem baixar diretamente pelo Downloader na TV.
 
@@ -113,7 +123,7 @@ Android e erro exato ao [suporte](https://t.me/TeleShelfSupportBot).
 
 Para atualizar, instale o APK oficial por cima do aplicativo existente,
 mantendo os dados para preservar o acesso, o histórico e as configurações.
-Não há atualização automática. No primeiro acesso, escaneie o QR da TV com
+O app pode verificar atualizações; a instalação exige sua confirmação. No primeiro acesso, escaneie o QR da TV com
 o Telegram no celular e confirme a conexão do dispositivo.
 
 ## Teste de 14 dias e compra

@@ -2,6 +2,8 @@
 
 # TeleShelf Pro
 
+**Optional app updates (0.65.0):** Check from About or the access screen, download a verified update in the foreground, then confirm installation in Android. Remind later or skip a version. Install this release once using the existing manual method to gain these controls.
+
 **Your Telegram videos, at home on TV.**
 
 Browse your joined channels and groups as video shelves. Resume where you stopped,
@@ -43,11 +45,11 @@ save something for later, and control everything with your TV remote.
 
 **Comment focus (0.62.3):** Focused comments keep their complete selection border visible, including the first and last comments and rows reached by scrolling.
 
-**[Download TeleShelf Pro 0.64.0 · build 92](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Downloader code: 6320340**
+**[Download TeleShelf Pro 0.65.0 · build 93](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Downloader code: 6320340**
 
 APK SHA-256:
 ```text
-b4daf7d94d85c67a24d8ac341ddc8b09dd5a1e74c83e514fd930411b469c800f
+fe82592498def816c0405d965da0d9520e57e30f4fc69777331b8b083f7baa6c
 ```
 
 **[How to install on your TV](#install-and-sign-in)** · [Check APK availability](https://github.com/nimec77/teleshelf-pro/releases)
@@ -64,6 +66,14 @@ Install TeleShelf before starting the trial: the timer starts when you press
 TeleShelf uses the Telegram API and is an independent, unofficial app. It is
 not made or endorsed by Telegram. This repository distributes official APKs;
 it does not contain the app's source code.
+
+## Optional app updates
+
+From version 0.65.0, TeleShelf can offer an optional update while Home is idle or the access screen is settled. You can also choose **Check for updates** in Settings → About, in About before sign-in, or on the locked access screen. **Remind me later** pauses reminders for 72 hours; **Skip this version** hides that build and older offers. Manual checks remain available.
+
+Allow TeleShelf as an installation source when requested, return to the app, then press Update again. Downloads stay in the foreground and use private temporary storage. After verification, a fresh Install press opens Android's confirmation. Update over the existing app to retain your login, library and settings. You can cancel or use the official manual installation steps below; Downloader code **6320340** still points to the public latest, which can differ from an older offer.
+
+Update checks and APK downloads contact GitHub and its delivery network. Those services receive ordinary network information such as your IP address. TeleShelf sends no Telegram account ID, channel list, content, diagnostics ID or update analytics with these requests. This functional traffic is separate from the optional diagnostics-sharing choice. See the [privacy policy](PRIVACY.md).
 
 ## A TV view of your channels
 
@@ -131,7 +141,7 @@ Use this alternative only if [LocalSend](https://localsend.org/download) is
 available and usable on your TV (a mouse may be needed):
 
 1. On the phone, open the official Releases page and download the `.apk`
-   from **Assets**, or save the [official Telegram APK document](https://t.me/teleshelf_pro/29).
+   from **Assets**, or save the [official Telegram APK document](https://t.me/teleshelf_pro/30).
 2. Open LocalSend on the Android phone and TV, connected to the same local
    Wi-Fi/network. On the phone, select the APK and send it to the TV; accept
    the transfer on the TV.
@@ -161,7 +171,7 @@ iPhone users should use the direct TV method above.
 ### Updating and common problems
 
 - **Update:** download the new official APK and install it over TeleShelf.
-  There is no automatic updater. Uninstalling removes local app data.
+  TeleShelf can check for updates; installation requires your confirmation. Uninstalling removes local app data.
 - **Downloaded a ZIP?** Return to **Releases → Assets** and select the APK.
 - **Installation is blocked?** Allow the app opening the APK to install apps
   in your TV settings. Check your model supports Android APK installation.
