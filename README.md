@@ -2,6 +2,8 @@
 
 # TeleShelf Pro
 
+**Comment profile photos and update diagnostics (0.66.1):** Comments show the author’s profile photo when one is available. Optional update failure reports include the stage and technical reason.
+
 **Background access and cache mode (0.66.0):** Open with verified saved access while the app checks Telegram in the background. If the connection stays unavailable, choose **Continue with cache** to browse content saved on this TV and play videos that are fully cached. Choose **Retry Telegram** to return to normal browsing.
 
 **Optional app updates (0.65.0):** Check from About or the access screen, download a verified update in the foreground, then confirm installation in Android. Remind later or skip a version. If your TV runs a version older than 0.65.0, use the manual install instructions below to get these controls.
@@ -47,11 +49,11 @@ save something for later, and control everything with your TV remote.
 
 **Comment focus (0.62.3):** Focused comments keep their complete selection border visible, including the first and last comments and rows reached by scrolling.
 
-**[Download TeleShelf Pro 0.66.0 · build 94](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Downloader code: 6320340**
+**[Download TeleShelf Pro 0.66.1 · build 95](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Downloader code: 6320340**
 
 APK SHA-256:
 ```text
-90b93875324585a43ab271fad570284c8f4e73fc2a38c3731e1ca592e819a530
+0a2c6cde4fa2d0c0f749922998580fa84346b1c3672967c0c82e8fa042b6562d
 ```
 
 **[How to install on your TV](#install-and-sign-in)** · [Check APK availability](https://github.com/nimec77/teleshelf-pro/releases)
@@ -143,7 +145,7 @@ Use this alternative only if [LocalSend](https://localsend.org/download) is
 available and usable on your TV (a mouse may be needed):
 
 1. On the phone, open the official Releases page and download the `.apk`
-   from **Assets**, or save the [official Telegram APK document](https://t.me/teleshelf_pro/31).
+   from **Assets**, or save the [official Telegram APK document](https://t.me/teleshelf_pro/32).
 2. Open LocalSend on the Android phone and TV, connected to the same local
    Wi-Fi/network. On the phone, select the APK and send it to the TV; accept
    the transfer on the TV.

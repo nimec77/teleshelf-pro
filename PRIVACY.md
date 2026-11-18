@@ -1,12 +1,12 @@
 # TeleShelf Privacy Policy
 
-**Version 2 · Effective 16 November 2026.**
+**Version 3 · Applies to releases that include in-app agreement version 4.**
 
 [Policy archive](https://github.com/nimec77/teleshelf-pro/tree/main/privacy).
 
 This policy covers the single TeleShelf Pro app for Android TV and Google TV,
-its account-access bot and support. The in-app user agreement is version 3,
-dated 17 October 2026.
+its account-access bot and support. The in-app user agreement is version 4,
+dated 4 December 2026.
 
 ## Who is responsible
 
@@ -181,7 +181,10 @@ language, keyboard, throttling and playback/sync preferences.
 
 Usage events describe screens, playback health and progress, feature choices,
 search-result ranges, sponsored impressions/clicks, card actions, sign-in/out,
-cache clears and settings. Setup properties include app language, channel-count
+cache clears, settings and app update failures. App update events record the
+failed step and technical reason as fixed categories. Crashlytics can receive
+handled error reports for some update failures, including verification errors.
+Setup properties include app language, channel-count
 and memory ranges, Telegram Premium status, install source and preferences.
 App-defined events use fixed categories, counts and ranges; they do not carry
 the content or account identifiers used by the Pro bot.
@@ -212,7 +215,7 @@ phone number. It accompanies crash reports while sharing is enabled and the
 Support link when you press Start on your phone. It helps locate crash reports;
 it is not an Analytics user ID and cannot locate all Analytics data.
 
-After a Yes to agreement v3, TeleShelf retains the latest available Analytics
+After a Yes to the current agreement, TeleShelf retains the latest available Analytics
 app-instance identifier and its Firebase app context on this TV for later deletion
 requests. The local record is excluded from Android backup. Switching sharing off,
 signing out or clearing media/history leaves it; uninstalling or removing app data

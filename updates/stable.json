@@ -8,27 +8,27 @@
     "minSdk": 26,
     "notes": {
       "en": [
-        "Open with verified saved access while the app checks Telegram in the background.",
-        "Browse saved content and play fully cached videos on this TV."
+        "Comments show the author\u2019s profile photo when one is available.",
+        "Optional update failure reports include the stage and technical reason."
       ],
       "es-419": [
-        "Inicio con acceso guardado y verificado, con opciones de recuperaci\u00f3n si Telegram no est\u00e1 disponible.",
-        "Explora el contenido guardado y reproduce videos almacenados por completo en esta TV."
+        "Los comentarios muestran la foto de perfil del autor cuando est\u00e1 disponible.",
+        "Si compartes diagn\u00f3sticos, los reportes de fallos de actualizaci\u00f3n incluyen la etapa y el motivo t\u00e9cnico."
       ],
       "pt-BR": [
-        "Inicializa\u00e7\u00e3o com acesso salvo e verificado, com op\u00e7\u00f5es de recupera\u00e7\u00e3o se o Telegram estiver indispon\u00edvel.",
-        "Veja o conte\u00fado salvo e reproduza v\u00eddeos completamente armazenados nesta TV."
+        "Os coment\u00e1rios mostram a foto do perfil do autor quando dispon\u00edvel.",
+        "Se voc\u00ea compartilhar diagn\u00f3sticos, falhas de atualiza\u00e7\u00e3o incluem a etapa e o motivo t\u00e9cnico."
       ],
       "ru": [
-        "\u041f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u0441 \u0441\u043e\u0445\u0440\u0430\u043d\u0451\u043d\u043d\u044b\u043c \u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0436\u0434\u0435\u043d\u0438\u0435\u043c \u0434\u043e\u0441\u0442\u0443\u043f\u0430, \u043f\u043e\u043a\u0430 \u0438\u0434\u0451\u0442 \u0444\u043e\u043d\u043e\u0432\u0430\u044f \u043f\u0440\u043e\u0432\u0435\u0440\u043a\u0430.",
-        "\u041f\u0440\u043e\u0441\u043c\u043e\u0442\u0440 \u0441\u043e\u0445\u0440\u0430\u043d\u0451\u043d\u043d\u043e\u0433\u043e \u043a\u043e\u043d\u0442\u0435\u043d\u0442\u0430 \u0438 \u043f\u043e\u043b\u043d\u043e\u0441\u0442\u044c\u044e \u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043d\u043d\u044b\u0445 \u0432\u0438\u0434\u0435\u043e \u043d\u0430 \u044d\u0442\u043e\u043c \u0422\u0412."
+        "\u0412 \u043a\u043e\u043c\u043c\u0435\u043d\u0442\u0430\u0440\u0438\u044f\u0445 \u043f\u043e\u043a\u0430\u0437\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u0444\u043e\u0442\u043e \u043f\u0440\u043e\u0444\u0438\u043b\u044f \u0430\u0432\u0442\u043e\u0440\u0430, \u0435\u0441\u043b\u0438 \u043e\u043d\u043e \u0434\u043e\u0441\u0442\u0443\u043f\u043d\u043e.",
+        "\u041f\u0440\u0438 \u0432\u043a\u043b\u044e\u0447\u0451\u043d\u043d\u043e\u0439 \u0434\u0438\u0430\u0433\u043d\u043e\u0441\u0442\u0438\u043a\u0435 \u043e\u0448\u0438\u0431\u043a\u0438 \u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u043f\u0435\u0440\u0435\u0434\u0430\u044e\u0442\u0441\u044f \u0441 \u044d\u0442\u0430\u043f\u043e\u043c \u0438 \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u043f\u0440\u0438\u0447\u0438\u043d\u043e\u0439."
       ]
     },
-    "sha256": "90b93875324585a43ab271fad570284c8f4e73fc2a38c3731e1ca592e819a530",
-    "sizeBytes": 52425697,
-    "tag": "v0.66.0",
-    "versionCode": 94,
-    "versionName": "0.66.0"
+    "sha256": "0a2c6cde4fa2d0c0f749922998580fa84346b1c3672967c0c82e8fa042b6562d",
+    "sizeBytes": 52426005,
+    "tag": "v0.66.1",
+    "versionCode": 95,
+    "versionName": "0.66.1"
   },
   "schemaVersion": 1
 }
