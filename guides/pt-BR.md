@@ -7,6 +7,10 @@ prateleiras, retomada da reprodução, histórico e lista para assistir mais
 tarde. Tudo pelo controle remoto. O TeleShelf usa a API do Telegram e é um
 aplicativo independente e não oficial, sem vínculo ou endosso do Telegram.
 
+**Atualização da reprodução (0.66.3)**
+
+Atualizamos a reprodução de vídeos e a decodificação de áudio AC3, E-AC3 e DTS. Removemos uma biblioteca de compatibilidade de banco de dados sem uso.
+
 **Fotos nos comentários e diagnóstico de atualizações (0.66.1):** Os comentários mostram a foto do perfil do autor quando disponível. Se você compartilhar diagnósticos, falhas de atualização incluem a etapa e o motivo técnico.
 
 **Verificação de acesso em segundo plano e modo de cache (0.66.0):** Com acesso salvo e verificado, o app abre enquanto verifica o Telegram em segundo plano. Se a conexão continuar indisponível, use o modo de cache para navegar pelo conteúdo salvo nesta TV e assistir a vídeos completamente armazenados. Tente conectar-se ao Telegram novamente para voltar à navegação normal.
@@ -47,11 +51,11 @@ aplicativo independente e não oficial, sem vínculo ou endosso do Telegram.
 
 **Foco nos comentários (0.62.3):** A borda de seleção dos comentários fica totalmente visível, inclusive no primeiro e no último comentário e após rolar a lista.
 
-**[Baixar TeleShelf Pro 0.66.1 · compilação 95](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Código do Downloader: 6320340**
+**[Baixar TeleShelf Pro 0.66.3 · compilação 97](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Código do Downloader: 6320340**
 
 SHA-256 do APK:
 ```text
-0a2c6cde4fa2d0c0f749922998580fa84346b1c3672967c0c82e8fa042b6562d
+27a00833e004b7d0ca6904e693c92fa305a655e07bd34f7ce669f2e93c321481
 ```
 [Disponibilidade das versões](https://github.com/nimec77/teleshelf-pro/releases) ·
 [Teste, compra ou restauração](https://t.me/TeleShelfProBot?start=trial)
@@ -106,7 +110,7 @@ for utilizável (talvez com um mouse), instale-o no celular e na TV. Conecte amb
 à mesma rede local. No celular, baixe o APK em **Releases → Assets**, envie
 o arquivo pelo LocalSend e aceite na TV. Abra o APK no LocalSend ou no gerenciador
 de arquivos da TV, permita a instalação por esse app e selecione **Instalar**.
-Também é possível salvar o [documento APK oficial no Telegram](https://t.me/teleshelf_pro/32).
+Também é possível salvar o [documento APK oficial no Telegram](https://t.me/teleshelf_pro/33).
 O envio do celular à TV usando apenas o controle não foi verificado; pode exigir um mouse.
 Usuários de iPhone devem baixar diretamente pelo Downloader na TV.
 

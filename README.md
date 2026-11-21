@@ -2,6 +2,10 @@
 
 # TeleShelf Pro
 
+**Playback updates (0.66.3)**
+
+Updated video playback and AC3, E-AC3, and DTS audio decoding. Removed an unused database compatibility library.
+
 **Comment profile photos and update diagnostics (0.66.1):** Comments show the author’s profile photo when one is available. Optional update failure reports include the stage and technical reason.
 
 **Background access and cache mode (0.66.0):** Open with verified saved access while the app checks Telegram in the background. If the connection stays unavailable, choose **Continue with cache** to browse content saved on this TV and play videos that are fully cached. Choose **Retry Telegram** to return to normal browsing.
@@ -49,11 +53,11 @@ save something for later, and control everything with your TV remote.
 
 **Comment focus (0.62.3):** Focused comments keep their complete selection border visible, including the first and last comments and rows reached by scrolling.
 
-**[Download TeleShelf Pro 0.66.1 · build 95](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Downloader code: 6320340**
+**[Download TeleShelf Pro 0.66.3 · build 97](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Downloader code: 6320340**
 
 APK SHA-256:
 ```text
-0a2c6cde4fa2d0c0f749922998580fa84346b1c3672967c0c82e8fa042b6562d
+27a00833e004b7d0ca6904e693c92fa305a655e07bd34f7ce669f2e93c321481
 ```
 
 **[How to install on your TV](#install-and-sign-in)** · [Check APK availability](https://github.com/nimec77/teleshelf-pro/releases)
@@ -145,7 +149,7 @@ Use this alternative only if [LocalSend](https://localsend.org/download) is
 available and usable on your TV (a mouse may be needed):
 
 1. On the phone, open the official Releases page and download the `.apk`
-   from **Assets**, or save the [official Telegram APK document](https://t.me/teleshelf_pro/32).
+   from **Assets**, or save the [official Telegram APK document](https://t.me/teleshelf_pro/33).
 2. Open LocalSend on the Android phone and TV, connected to the same local
    Wi-Fi/network. On the phone, select the APK and send it to the TV; accept
    the transfer on the TV.

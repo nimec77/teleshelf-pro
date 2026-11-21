@@ -8,27 +8,27 @@
     "minSdk": 26,
     "notes": {
       "en": [
-        "Comments show the author\u2019s profile photo when one is available.",
-        "Optional update failure reports include the stage and technical reason."
+        "Updated video playback and AC3, E-AC3, and DTS audio decoding.",
+        "Removed an unused database compatibility library."
       ],
       "es-419": [
-        "Los comentarios muestran la foto de perfil del autor cuando est\u00e1 disponible.",
-        "Si compartes diagn\u00f3sticos, los reportes de fallos de actualizaci\u00f3n incluyen la etapa y el motivo t\u00e9cnico."
+        "Actualizamos la reproducci\u00f3n de video y la decodificaci\u00f3n de audio AC3, E-AC3 y DTS.",
+        "Eliminamos una biblioteca de compatibilidad de bases de datos que ya no se usaba."
       ],
       "pt-BR": [
-        "Os coment\u00e1rios mostram a foto do perfil do autor quando dispon\u00edvel.",
-        "Se voc\u00ea compartilhar diagn\u00f3sticos, falhas de atualiza\u00e7\u00e3o incluem a etapa e o motivo t\u00e9cnico."
+        "Atualizamos a reprodu\u00e7\u00e3o de v\u00eddeos e a decodifica\u00e7\u00e3o de \u00e1udio AC3, E-AC3 e DTS.",
+        "Removemos uma biblioteca de compatibilidade de banco de dados sem uso."
       ],
       "ru": [
-        "\u0412 \u043a\u043e\u043c\u043c\u0435\u043d\u0442\u0430\u0440\u0438\u044f\u0445 \u043f\u043e\u043a\u0430\u0437\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u0444\u043e\u0442\u043e \u043f\u0440\u043e\u0444\u0438\u043b\u044f \u0430\u0432\u0442\u043e\u0440\u0430, \u0435\u0441\u043b\u0438 \u043e\u043d\u043e \u0434\u043e\u0441\u0442\u0443\u043f\u043d\u043e.",
-        "\u041f\u0440\u0438 \u0432\u043a\u043b\u044e\u0447\u0451\u043d\u043d\u043e\u0439 \u0434\u0438\u0430\u0433\u043d\u043e\u0441\u0442\u0438\u043a\u0435 \u043e\u0448\u0438\u0431\u043a\u0438 \u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u043f\u0435\u0440\u0435\u0434\u0430\u044e\u0442\u0441\u044f \u0441 \u044d\u0442\u0430\u043f\u043e\u043c \u0438 \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u043f\u0440\u0438\u0447\u0438\u043d\u043e\u0439."
+        "\u041e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u044b \u0432\u043e\u0441\u043f\u0440\u043e\u0438\u0437\u0432\u0435\u0434\u0435\u043d\u0438\u0435 \u0432\u0438\u0434\u0435\u043e \u0438 \u0434\u0435\u043a\u043e\u0434\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0437\u0432\u0443\u043a\u0430 AC3, E-AC3 \u0438 DTS.",
+        "\u0423\u0434\u0430\u043b\u0435\u043d\u0430 \u043d\u0435\u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u043c\u0430\u044f \u0431\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0430 \u0441\u043e\u0432\u043c\u0435\u0441\u0442\u0438\u043c\u043e\u0441\u0442\u0438 \u0431\u0430\u0437\u044b \u0434\u0430\u043d\u043d\u044b\u0445."
       ]
     },
-    "sha256": "0a2c6cde4fa2d0c0f749922998580fa84346b1c3672967c0c82e8fa042b6562d",
-    "sizeBytes": 52426005,
-    "tag": "v0.66.1",
-    "versionCode": 95,
-    "versionName": "0.66.1"
+    "sha256": "27a00833e004b7d0ca6904e693c92fa305a655e07bd34f7ce669f2e93c321481",
+    "sizeBytes": 52786578,
+    "tag": "v0.66.3",
+    "versionCode": 97,
+    "versionName": "0.66.3"
   },
   "schemaVersion": 1
 }
