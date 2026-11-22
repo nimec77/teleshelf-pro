@@ -7,6 +7,10 @@
 TeleShelf использует API Telegram. Это независимое неофициальное приложение,
 не созданное и не одобренное Telegram.
 
+**Запуск с сохранённым аккаунтом (0.66.5)**
+
+Исправили ошибку, из-за которой при запуске TeleShelf с сохранённым аккаунтом Telegram иногда появлялось сообщение «Аккаунт недоступен».
+
 **Обновления приложения на Android 9 (0.66.4)**
 
 Исправлена ошибка, из-за которой TeleShelf не удавалось проверить обновление на Android 9. Если на ТВ появляется ошибка проверки, скачайте APK версии 0.66.4 и один раз установите его поверх текущей версии.
@@ -55,11 +59,11 @@ TeleShelf использует API Telegram. Это независимое не�
 
 **Фокус в комментариях (0.62.3):** Рамка выделения комментария теперь видна целиком, в том числе у первого и последнего комментария и после прокрутки.
 
-**[Скачать TeleShelf Pro 0.66.4 · сборка 98](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Код Downloader: 6320340**
+**[Скачать TeleShelf Pro 0.66.5 · сборка 99](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Код Downloader: 6320340**
 
 SHA-256 APK:
 ```text
-163018d09c1ba2224800e13949190c9132dd6c4423282cbadf8e432717faa799
+caf0b071c4012e48f3a61d01967ae5851d6ca0ec40e303c0161b41367b78fbc9
 ```
 [Доступность сборок](https://github.com/nimec77/teleshelf-pro/releases) ·
 [Пробный период, покупка и восстановление](https://t.me/TeleShelfProBot?start=trial)
@@ -114,7 +118,7 @@ https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.
 к одной локальной сети. На телефоне скачайте APK из **Releases → Assets**,
 отправьте файл на ТВ через LocalSend и примите передачу. Откройте APK через
 LocalSend или файловый менеджер ТВ, разрешите этому приложению установку
-и нажмите **Установить**. APK также доступен [документом в Telegram](https://t.me/teleshelf_pro/34).
+и нажмите **Установить**. APK также доступен [документом в Telegram](https://t.me/teleshelf_pro/35).
 Передача с телефона с управлением только пультом не проверена; может понадобиться мышь.
 Владельцам iPhone подойдёт скачивание через Downloader на телевизоре.
 
