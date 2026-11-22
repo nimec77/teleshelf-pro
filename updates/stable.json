@@ -8,27 +8,27 @@
     "minSdk": 26,
     "notes": {
       "en": [
-        "Updated video playback and AC3, E-AC3, and DTS audio decoding.",
-        "Removed an unused database compatibility library."
+        "Fixed an issue that could prevent TeleShelf from verifying app updates on Android 9.",
+        "If your TV shows a verification error, download the 0.66.4 APK and install it over your existing app once."
       ],
       "es-419": [
-        "Actualizamos la reproducci\u00f3n de video y la decodificaci\u00f3n de audio AC3, E-AC3 y DTS.",
-        "Eliminamos una biblioteca de compatibilidad de bases de datos que ya no se usaba."
+        "Se corrigi\u00f3 un error que pod\u00eda impedir que TeleShelf verificara las actualizaciones en Android 9.",
+        "Si tu TV muestra un error de verificaci\u00f3n, descarga el APK de la versi\u00f3n 0.66.4 e inst\u00e1lalo una vez sobre la versi\u00f3n actual."
       ],
       "pt-BR": [
-        "Atualizamos a reprodu\u00e7\u00e3o de v\u00eddeos e a decodifica\u00e7\u00e3o de \u00e1udio AC3, E-AC3 e DTS.",
-        "Removemos uma biblioteca de compatibilidade de banco de dados sem uso."
+        "Corrigimos uma falha que podia impedir o TeleShelf de verificar atualiza\u00e7\u00f5es no Android 9.",
+        "Se a TV mostrar um erro de verifica\u00e7\u00e3o, baixe o APK da vers\u00e3o 0.66.4 e instale-o uma vez sobre a vers\u00e3o atual."
       ],
       "ru": [
-        "\u041e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u044b \u0432\u043e\u0441\u043f\u0440\u043e\u0438\u0437\u0432\u0435\u0434\u0435\u043d\u0438\u0435 \u0432\u0438\u0434\u0435\u043e \u0438 \u0434\u0435\u043a\u043e\u0434\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0437\u0432\u0443\u043a\u0430 AC3, E-AC3 \u0438 DTS.",
-        "\u0423\u0434\u0430\u043b\u0435\u043d\u0430 \u043d\u0435\u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u043c\u0430\u044f \u0431\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0430 \u0441\u043e\u0432\u043c\u0435\u0441\u0442\u0438\u043c\u043e\u0441\u0442\u0438 \u0431\u0430\u0437\u044b \u0434\u0430\u043d\u043d\u044b\u0445."
+        "\u0418\u0441\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0430 \u043e\u0448\u0438\u0431\u043a\u0430, \u0438\u0437-\u0437\u0430 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 TeleShelf \u043d\u0435 \u0443\u0434\u0430\u0432\u0430\u043b\u043e\u0441\u044c \u043f\u0440\u043e\u0432\u0435\u0440\u0438\u0442\u044c \u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 \u043d\u0430 Android 9.",
+        "\u0415\u0441\u043b\u0438 \u043d\u0430 \u0422\u0412 \u043f\u043e\u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u043e\u0448\u0438\u0431\u043a\u0430 \u043f\u0440\u043e\u0432\u0435\u0440\u043a\u0438, \u0441\u043a\u0430\u0447\u0430\u0439\u0442\u0435 APK \u0432\u0435\u0440\u0441\u0438\u0438 0.66.4 \u0438 \u043e\u0434\u0438\u043d \u0440\u0430\u0437 \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0435\u0433\u043e \u043f\u043e\u0432\u0435\u0440\u0445 \u0442\u0435\u043a\u0443\u0449\u0435\u0439 \u0432\u0435\u0440\u0441\u0438\u0438."
       ]
     },
-    "sha256": "27a00833e004b7d0ca6904e693c92fa305a655e07bd34f7ce669f2e93c321481",
+    "sha256": "163018d09c1ba2224800e13949190c9132dd6c4423282cbadf8e432717faa799",
     "sizeBytes": 52786578,
-    "tag": "v0.66.3",
-    "versionCode": 97,
-    "versionName": "0.66.3"
+    "tag": "v0.66.4",
+    "versionCode": 98,
+    "versionName": "0.66.4"
   },
   "schemaVersion": 1
 }

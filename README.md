@@ -2,6 +2,10 @@
 
 # TeleShelf Pro
 
+**Android 9 app updates (0.66.4)**
+
+Fixed an issue that could prevent TeleShelf from verifying app updates on Android 9. If your TV shows a verification error, download the 0.66.4 APK and install it over your existing app once.
+
 **Playback updates (0.66.3)**
 
 Updated video playback and AC3, E-AC3, and DTS audio decoding. Removed an unused database compatibility library.
@@ -53,11 +57,11 @@ save something for later, and control everything with your TV remote.
 
 **Comment focus (0.62.3):** Focused comments keep their complete selection border visible, including the first and last comments and rows reached by scrolling.
 
-**[Download TeleShelf Pro 0.66.3 · build 97](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Downloader code: 6320340**
+**[Download TeleShelf Pro 0.66.4 · build 98](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Downloader code: 6320340**
 
 APK SHA-256:
 ```text
-27a00833e004b7d0ca6904e693c92fa305a655e07bd34f7ce669f2e93c321481
+163018d09c1ba2224800e13949190c9132dd6c4423282cbadf8e432717faa799
 ```
 
 **[How to install on your TV](#install-and-sign-in)** · [Check APK availability](https://github.com/nimec77/teleshelf-pro/releases)
@@ -76,6 +80,8 @@ not made or endorsed by Telegram. This repository distributes official APKs;
 it does not contain the app's source code.
 
 ## Optional app updates
+
+**Android 9 verification error.** Enter code **6320340** in Downloader, or use the official APK linked above. Install version **0.66.4 or later** over the existing app and choose **Update**. Your sign-in, history and settings carry over. You can check the installed version in **Settings → About**.
 
 From version 0.65.0, TeleShelf can offer an optional update while Home is idle or the access screen is settled. You can also choose **Check for updates** in Settings → About, in About before sign-in, or on the locked access screen. **Remind me later** pauses reminders for 72 hours; **Skip this version** hides that build and older offers. Manual checks remain available.
 
@@ -149,7 +155,7 @@ Use this alternative only if [LocalSend](https://localsend.org/download) is
 available and usable on your TV (a mouse may be needed):
 
 1. On the phone, open the official Releases page and download the `.apk`
-   from **Assets**, or save the [official Telegram APK document](https://t.me/teleshelf_pro/33).
+   from **Assets**, or save the [official Telegram APK document](https://t.me/teleshelf_pro/34).
 2. Open LocalSend on the Android phone and TV, connected to the same local
    Wi-Fi/network. On the phone, select the APK and send it to the TV; accept
    the transfer on the TV.

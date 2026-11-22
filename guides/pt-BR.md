@@ -7,6 +7,10 @@ prateleiras, retomada da reprodução, histórico e lista para assistir mais
 tarde. Tudo pelo controle remoto. O TeleShelf usa a API do Telegram e é um
 aplicativo independente e não oficial, sem vínculo ou endosso do Telegram.
 
+**Atualizações do app no Android 9 (0.66.4)**
+
+Corrigimos uma falha que podia impedir o TeleShelf de verificar atualizações no Android 9. Se a TV mostrar um erro de verificação, baixe o APK da versão 0.66.4 e instale-o uma vez sobre a versão atual.
+
 **Atualização da reprodução (0.66.3)**
 
 Atualizamos a reprodução de vídeos e a decodificação de áudio AC3, E-AC3 e DTS. Removemos uma biblioteca de compatibilidade de banco de dados sem uso.
@@ -51,16 +55,18 @@ Atualizamos a reprodução de vídeos e a decodificação de áudio AC3, E-AC3 e
 
 **Foco nos comentários (0.62.3):** A borda de seleção dos comentários fica totalmente visível, inclusive no primeiro e no último comentário e após rolar a lista.
 
-**[Baixar TeleShelf Pro 0.66.3 · compilação 97](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Código do Downloader: 6320340**
+**[Baixar TeleShelf Pro 0.66.4 · compilação 98](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Código do Downloader: 6320340**
 
 SHA-256 do APK:
 ```text
-27a00833e004b7d0ca6904e693c92fa305a655e07bd34f7ce669f2e93c321481
+163018d09c1ba2224800e13949190c9132dd6c4423282cbadf8e432717faa799
 ```
 [Disponibilidade das versões](https://github.com/nimec77/teleshelf-pro/releases) ·
 [Teste, compra ou restauração](https://t.me/TeleShelfProBot?start=trial)
 
 ## Atualizações opcionais do aplicativo
+
+**Erro de verificação no Android 9.** Digite o código **6320340** no Downloader ou use o APK oficial no link acima. Instale a versão **0.66.4 ou posterior** sobre o app existente e selecione **Atualizar**. Seu login, histórico e configurações serão mantidos. Confira a versão em **Configurações → Sobre**.
 
 A partir da versão 0.65.0, o TeleShelf pode oferecer uma atualização quando a tela inicial estiver ociosa ou a tela de acesso estiver estável. Você também pode escolher Verificar atualizações em Configurações → Sobre, em Sobre antes de entrar ou na tela de acesso bloqueado. Lembrar mais tarde adia os lembretes por 72 horas; Pular esta versão oculta essa versão e as anteriores. A verificação manual continua disponível.
 
@@ -110,7 +116,7 @@ for utilizável (talvez com um mouse), instale-o no celular e na TV. Conecte amb
 à mesma rede local. No celular, baixe o APK em **Releases → Assets**, envie
 o arquivo pelo LocalSend e aceite na TV. Abra o APK no LocalSend ou no gerenciador
 de arquivos da TV, permita a instalação por esse app e selecione **Instalar**.
-Também é possível salvar o [documento APK oficial no Telegram](https://t.me/teleshelf_pro/33).
+Também é possível salvar o [documento APK oficial no Telegram](https://t.me/teleshelf_pro/34).
 O envio do celular à TV usando apenas o controle não foi verificado; pode exigir um mouse.
 Usuários de iPhone devem baixar diretamente pelo Downloader na TV.
 
