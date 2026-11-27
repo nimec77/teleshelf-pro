@@ -7,6 +7,10 @@ prateleiras, retomada da reprodução, histórico e lista para assistir mais
 tarde. Tudo pelo controle remoto. O TeleShelf usa a API do Telegram e é um
 aplicativo independente e não oficial, sem vínculo ou endosso do Telegram.
 
+**Limite total do cache (0.66.6)**
+
+O limite do cache agora inclui o tamanho total de vídeos e outros arquivos armazenados em cache. As Configurações mostram o uso total em relação ao limite escolhido.
+
 **Inicialização com uma conta salva (0.66.5)**
 
 Corrigimos um erro que às vezes mostrava “Conta indisponível” ao reabrir o TeleShelf com uma conta do Telegram salva.
@@ -59,11 +63,11 @@ Atualizamos a reprodução de vídeos e a decodificação de áudio AC3, E-AC3 e
 
 **Foco nos comentários (0.62.3):** A borda de seleção dos comentários fica totalmente visível, inclusive no primeiro e no último comentário e após rolar a lista.
 
-**[Baixar TeleShelf Pro 0.66.5 · compilação 99](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Código do Downloader: 6320340**
+**[Baixar TeleShelf Pro 0.66.6 · compilação 100](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Código do Downloader: 6320340**
 
 SHA-256 do APK:
 ```text
-caf0b071c4012e48f3a61d01967ae5851d6ca0ec40e303c0161b41367b78fbc9
+7acf9d413e1c0f092efe6287477024b295a891719c4070cc9c7f198c097d45d8
 ```
 [Disponibilidade das versões](https://github.com/nimec77/teleshelf-pro/releases) ·
 [Teste, compra ou restauração](https://t.me/TeleShelfProBot?start=trial)
@@ -120,7 +124,7 @@ for utilizável (talvez com um mouse), instale-o no celular e na TV. Conecte amb
 à mesma rede local. No celular, baixe o APK em **Releases → Assets**, envie
 o arquivo pelo LocalSend e aceite na TV. Abra o APK no LocalSend ou no gerenciador
 de arquivos da TV, permita a instalação por esse app e selecione **Instalar**.
-Também é possível salvar o [documento APK oficial no Telegram](https://t.me/teleshelf_pro/35).
+Também é possível salvar o [documento APK oficial no Telegram](https://t.me/teleshelf_pro/36).
 O envio do celular à TV usando apenas o controle não foi verificado; pode exigir um mouse.
 Usuários de iPhone devem baixar diretamente pelo Downloader na TV.
 

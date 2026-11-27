@@ -2,6 +2,10 @@
 
 # TeleShelf Pro
 
+**Combined cache limit (0.66.6)**
+
+The cache limit now covers the combined size of videos and other cached files. Settings shows total usage against the selected limit.
+
 **Saved-account startup (0.66.5)**
 
 Fixed an intermittent “Account unavailable” message when reopening TeleShelf with a saved Telegram account.
@@ -61,11 +65,11 @@ save something for later, and control everything with your TV remote.
 
 **Comment focus (0.62.3):** Focused comments keep their complete selection border visible, including the first and last comments and rows reached by scrolling.
 
-**[Download TeleShelf Pro 0.66.5 · build 99](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Downloader code: 6320340**
+**[Download TeleShelf Pro 0.66.6 · build 100](https://github.com/nimec77/teleshelf-pro/releases/latest/download/teleshelf-pro.apk)** · **Downloader code: 6320340**
 
 APK SHA-256:
 ```text
-caf0b071c4012e48f3a61d01967ae5851d6ca0ec40e303c0161b41367b78fbc9
+7acf9d413e1c0f092efe6287477024b295a891719c4070cc9c7f198c097d45d8
 ```
 
 **[How to install on your TV](#install-and-sign-in)** · [Check APK availability](https://github.com/nimec77/teleshelf-pro/releases)
@@ -159,7 +163,7 @@ Use this alternative only if [LocalSend](https://localsend.org/download) is
 available and usable on your TV (a mouse may be needed):
 
 1. On the phone, open the official Releases page and download the `.apk`
-   from **Assets**, or save the [official Telegram APK document](https://t.me/teleshelf_pro/35).
+   from **Assets**, or save the [official Telegram APK document](https://t.me/teleshelf_pro/36).
 2. Open LocalSend on the Android phone and TV, connected to the same local
    Wi-Fi/network. On the phone, select the APK and send it to the TV; accept
    the transfer on the TV.
