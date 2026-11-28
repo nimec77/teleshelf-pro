@@ -8,27 +8,27 @@
     "minSdk": 26,
     "notes": {
       "en": [
-        "The cache limit now covers the combined size of videos and other cached files.",
-        "Settings shows total usage against the selected limit."
+        "Automatic cache cleanup now includes thumbnails, other downloaded media and disposable app files, not just videos.",
+        "Active playback and account data remain protected."
       ],
       "es-419": [
-        "El l\u00edmite de cach\u00e9 ahora incluye el tama\u00f1o total de los videos y otros archivos de cach\u00e9.",
-        "Ajustes muestra el uso total con respecto al l\u00edmite elegido."
+        "La limpieza autom\u00e1tica de cach\u00e9 ahora incluye miniaturas, otros archivos multimedia descargados y archivos desechables de la app, no solo videos.",
+        "La reproducci\u00f3n activa y los datos de la cuenta siguen protegidos."
       ],
       "pt-BR": [
-        "O limite do cache agora inclui o tamanho total de v\u00eddeos e outros arquivos armazenados em cache.",
-        "As Configura\u00e7\u00f5es mostram o uso total em rela\u00e7\u00e3o ao limite escolhido."
+        "A limpeza autom\u00e1tica do cache agora inclui miniaturas, outras m\u00eddias baixadas e arquivos descart\u00e1veis do aplicativo, n\u00e3o apenas v\u00eddeos.",
+        "A reprodu\u00e7\u00e3o ativa e os dados da conta continuam protegidos."
       ],
       "ru": [
-        "\u041b\u0438\u043c\u0438\u0442 \u043a\u044d\u0448\u0430 \u0442\u0435\u043f\u0435\u0440\u044c \u0443\u0447\u0438\u0442\u044b\u0432\u0430\u0435\u0442 \u043e\u0431\u0449\u0438\u0439 \u043e\u0431\u044a\u0451\u043c \u0432\u0438\u0434\u0435\u043e \u0438 \u0434\u0440\u0443\u0433\u0438\u0445 \u0444\u0430\u0439\u043b\u043e\u0432 \u043a\u044d\u0448\u0430.",
-        "\u0412 \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0430\u0445 \u043e\u0442\u043e\u0431\u0440\u0430\u0436\u0430\u0435\u0442\u0441\u044f \u043e\u0431\u0449\u0438\u0439 \u043e\u0431\u044a\u0451\u043c \u0437\u0430\u043d\u044f\u0442\u043e\u0433\u043e \u043a\u044d\u0448\u0430 \u043e\u0442\u043d\u043e\u0441\u0438\u0442\u0435\u043b\u044c\u043d\u043e \u0432\u044b\u0431\u0440\u0430\u043d\u043d\u043e\u0433\u043e \u043b\u0438\u043c\u0438\u0442\u0430."
+        "\u0410\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u043e\u0447\u0438\u0441\u0442\u043a\u0430 \u043a\u044d\u0448\u0430 \u0442\u0435\u043f\u0435\u0440\u044c \u043e\u0445\u0432\u0430\u0442\u044b\u0432\u0430\u0435\u0442 \u043c\u0438\u043d\u0438\u0430\u0442\u044e\u0440\u044b, \u0434\u0440\u0443\u0433\u0438\u0435 \u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043d\u043d\u044b\u0435 \u043c\u0435\u0434\u0438\u0430\u0444\u0430\u0439\u043b\u044b \u0438 \u0432\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u0435 \u0444\u0430\u0439\u043b\u044b \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f, \u0430 \u043d\u0435 \u0442\u043e\u043b\u044c\u043a\u043e \u0432\u0438\u0434\u0435\u043e.",
+        "\u0422\u0435\u043a\u0443\u0449\u0435\u0435 \u0432\u043e\u0441\u043f\u0440\u043e\u0438\u0437\u0432\u0435\u0434\u0435\u043d\u0438\u0435 \u0438 \u0434\u0430\u043d\u043d\u044b\u0435 \u0430\u043a\u043a\u0430\u0443\u043d\u0442\u0430 \u0437\u0430\u0449\u0438\u0449\u0435\u043d\u044b."
       ]
     },
-    "sha256": "7acf9d413e1c0f092efe6287477024b295a891719c4070cc9c7f198c097d45d8",
+    "sha256": "eb9376b500592151435204d9ef8faf507ab2e3c44332ba559a7d37137a202015",
     "sizeBytes": 52786746,
-    "tag": "v0.66.6",
-    "versionCode": 100,
-    "versionName": "0.66.6"
+    "tag": "v0.66.7",
+    "versionCode": 101,
+    "versionName": "0.66.7"
   },
   "schemaVersion": 1
 }
